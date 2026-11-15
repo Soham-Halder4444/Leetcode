@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-15T16:56:50.679Z",
+  "updatedAt": "2026-11-15T16:57:10.857Z",
   "problems": [
     {
       "frontendId": "17",
@@ -24,6 +24,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.cpp",
           "sha": "7a2429e9527f9bef49ec00cb6d68cdd642835e88",
           "lastSyncedAt": "2026-11-15T16:56:18.315Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0022-generate-parentheses.cpp",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
+          "sha": "3385b1421691eaab60e68ca051de10a7c71e7566",
+          "lastSyncedAt": "2026-11-15T16:57:10.857Z"
         }
       ]
     },
