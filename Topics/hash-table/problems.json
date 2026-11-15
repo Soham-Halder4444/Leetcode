@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T17:51:59.470Z",
+  "updatedAt": "2026-11-15T17:55:28.811Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,7 +163,7 @@
           "filename": "0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
           "sha": "b52a6af3cb33b97c0aa7e7844a5da28d3f84b5fa",
-          "lastSyncedAt": "2026-11-15T16:37:43.061Z"
+          "lastSyncedAt": "2026-11-15T17:55:28.811Z"
         }
       ]
     },
