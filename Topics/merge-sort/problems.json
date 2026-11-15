@@ -5,7 +5,7 @@
     "name": "Merge Sort",
     "tagId": "61051"
   },
-  "updatedAt": "2026-11-15T16:48:22.197Z",
+  "updatedAt": "2026-11-15T17:03:11.819Z",
   "problems": [
     {
       "frontendId": "23",
@@ -24,6 +24,26 @@
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp",
           "sha": "65b372ba38a0f3dd4fa5a69050ee192fd3fd4ade",
           "lastSyncedAt": "2026-11-15T16:48:22.197Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0148-sort-list.cpp",
+          "path": "0148-sort-list/0148-sort-list.cpp",
+          "sha": "b71bb8364fe77da064fc1eb4ddb11f5390cc3d86",
+          "lastSyncedAt": "2026-11-15T17:03:11.819Z"
         }
       ]
     }
