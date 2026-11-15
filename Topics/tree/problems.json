@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-15T17:54:48.456Z",
+  "updatedAt": "2026-11-15T17:55:04.825Z",
   "problems": [
     {
       "frontendId": "94",
@@ -663,7 +663,7 @@
           "filename": "2265-count-nodes-equal-to-average-of-subtree.cpp",
           "path": "2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.cpp",
           "sha": "306c8dc9caf1bd85b3d259b3af469e4d69f13d33",
-          "lastSyncedAt": "2026-11-15T16:37:11.902Z"
+          "lastSyncedAt": "2026-11-15T17:55:04.825Z"
         }
       ]
     }
