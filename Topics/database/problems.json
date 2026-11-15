@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T16:59:14.383Z",
+  "updatedAt": "2026-11-15T16:59:20.021Z",
   "problems": [
     {
       "frontendId": "176",
@@ -164,6 +164,26 @@
           "path": "0626-exchange-seats/0626-exchange-seats.sql",
           "sha": "f5f978ab9a51bda82a3dab3bf54352f6a587532f",
           "lastSyncedAt": "2026-11-15T16:58:29.321Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1045",
+      "title": "Customers Who Bought All Products",
+      "slug": "customers-who-bought-all-products",
+      "problemName": "1045-customers-who-bought-all-products",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/customers-who-bought-all-products/",
+      "folderPath": "1045-customers-who-bought-all-products/",
+      "readmePath": "1045-customers-who-bought-all-products/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1045-customers-who-bought-all-products.sql",
+          "path": "1045-customers-who-bought-all-products/1045-customers-who-bought-all-products.sql",
+          "sha": "66627a66a74d86f3f39e76454225301839142135",
+          "lastSyncedAt": "2026-11-15T16:59:20.021Z"
         }
       ]
     },
