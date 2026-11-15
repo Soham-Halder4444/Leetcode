@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T17:01:17.827Z",
+  "updatedAt": "2026-11-15T17:01:23.683Z",
   "problems": [
     {
       "frontendId": "176",
@@ -324,6 +324,26 @@
           "path": "1045-customers-who-bought-all-products/1045-customers-who-bought-all-products.sql",
           "sha": "66627a66a74d86f3f39e76454225301839142135",
           "lastSyncedAt": "2026-11-15T16:59:20.021Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1068",
+      "title": "Product Sales Analysis I",
+      "slug": "product-sales-analysis-i",
+      "problemName": "1068-product-sales-analysis-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/product-sales-analysis-i/",
+      "folderPath": "1068-product-sales-analysis-i/",
+      "readmePath": "1068-product-sales-analysis-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1068-product-sales-analysis-i.sql",
+          "path": "1068-product-sales-analysis-i/1068-product-sales-analysis-i.sql",
+          "sha": "8c0a67eb596e491eb17901a141bb48f6452445fb",
+          "lastSyncedAt": "2026-11-15T17:01:23.683Z"
         }
       ]
     },
