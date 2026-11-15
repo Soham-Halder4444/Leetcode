@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T17:05:20.940Z",
+  "updatedAt": "2026-11-15T17:05:36.503Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "0006-zigzag-conversion/0006-zigzag-conversion.cpp",
           "sha": "6c9d659c184a374d8c8a2f4cdd25e38dc7c7591d",
           "lastSyncedAt": "2026-11-15T16:43:05.704Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "problemName": "0008-string-to-integer-atoi",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "folderPath": "0008-string-to-integer-atoi/",
+      "readmePath": "0008-string-to-integer-atoi/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0008-string-to-integer-atoi.cpp",
+          "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.cpp",
+          "sha": "b49bfb30f2a120e165ec40518f710fad41063992",
+          "lastSyncedAt": "2026-11-15T17:05:36.503Z"
         }
       ]
     },
