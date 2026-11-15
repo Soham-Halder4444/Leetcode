@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T16:44:11.130Z",
+  "updatedAt": "2026-11-15T16:46:32.821Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp",
           "sha": "b33dff58d80fe6475b9d488261cc65a84d4aad82",
           "lastSyncedAt": "2026-11-15T16:33:20.695Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0347-top-k-frequent-elements.cpp",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
+          "sha": "0aa367ef87cd108808f3da359a40c64ac0b938b5",
+          "lastSyncedAt": "2026-11-15T16:46:32.821Z"
         }
       ]
     },
