@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T16:57:52.892Z",
+  "updatedAt": "2026-11-15T16:57:57.928Z",
   "problems": [
     {
       "frontendId": "185",
@@ -84,6 +84,26 @@
           "path": "1321-restaurant-growth/1321-restaurant-growth.sql",
           "sha": "be8cd5717ee37a5cfedf5066a117daaadc3eab21",
           "lastSyncedAt": "2026-11-15T16:57:47.699Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1327",
+      "title": "List the Products Ordered in a Period",
+      "slug": "list-the-products-ordered-in-a-period",
+      "problemName": "1327-list-the-products-ordered-in-a-period",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/list-the-products-ordered-in-a-period/",
+      "folderPath": "1327-list-the-products-ordered-in-a-period/",
+      "readmePath": "1327-list-the-products-ordered-in-a-period/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1327-list-the-products-ordered-in-a-period.sql",
+          "path": "1327-list-the-products-ordered-in-a-period/1327-list-the-products-ordered-in-a-period.sql",
+          "sha": "3cd3b6c6b5df74449594a2da6f919fbcf59ceac1",
+          "lastSyncedAt": "2026-11-15T16:57:57.928Z"
         }
       ]
     },
