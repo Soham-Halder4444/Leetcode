@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T17:00:05.843Z",
+  "updatedAt": "2026-11-15T17:00:10.958Z",
   "problems": [
     {
       "frontendId": "176",
@@ -324,6 +324,26 @@
           "path": "1174-immediate-food-delivery-ii/1174-immediate-food-delivery-ii.sql",
           "sha": "38420fb66453a293a69e59d3fe9832bf9415cd33",
           "lastSyncedAt": "2026-11-15T17:00:05.843Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1193",
+      "title": "Monthly Transactions I",
+      "slug": "monthly-transactions-i",
+      "problemName": "1193-monthly-transactions-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/monthly-transactions-i/",
+      "folderPath": "1193-monthly-transactions-i/",
+      "readmePath": "1193-monthly-transactions-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1193-monthly-transactions-i.sql",
+          "path": "1193-monthly-transactions-i/1193-monthly-transactions-i.sql",
+          "sha": "cdca07f04477f1fe569def2ac272baa678d30307",
+          "lastSyncedAt": "2026-11-15T17:00:10.958Z"
         }
       ]
     },
