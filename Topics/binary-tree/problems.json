@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-15T16:45:09.652Z",
+  "updatedAt": "2026-11-15T16:45:24.140Z",
   "problems": [
     {
       "frontendId": "94",
@@ -304,6 +304,26 @@
           "path": "0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.cpp",
           "sha": "70d4bc5565259a5de21305525cf6319d0a7f2850",
           "lastSyncedAt": "2026-11-15T16:36:05.677Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "slug": "binary-tree-postorder-traversal",
+      "problemName": "0145-binary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+      "folderPath": "0145-binary-tree-postorder-traversal/",
+      "readmePath": "0145-binary-tree-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0145-binary-tree-postorder-traversal.cpp",
+          "path": "0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.cpp",
+          "sha": "988673c4bb2f0d6c6c4a348ffdd6ee78db8d9fbc",
+          "lastSyncedAt": "2026-11-15T16:45:24.140Z"
         }
       ]
     },
