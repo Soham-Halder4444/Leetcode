@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-15T16:48:03.802Z",
+  "updatedAt": "2026-11-15T16:48:59.679Z",
   "problems": [
     {
       "frontendId": "347",
@@ -44,6 +44,26 @@
           "path": "0621-task-scheduler/0621-task-scheduler.cpp",
           "sha": "dd9565cc9fd99d590d392ac30cea8dce6509d39f",
           "lastSyncedAt": "2026-11-15T16:48:03.802Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "992",
+      "title": "Subarrays with K Different Integers",
+      "slug": "subarrays-with-k-different-integers",
+      "problemName": "0992-subarrays-with-k-different-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+      "folderPath": "0992-subarrays-with-k-different-integers/",
+      "readmePath": "0992-subarrays-with-k-different-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0992-subarrays-with-k-different-integers.cpp",
+          "path": "0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.cpp",
+          "sha": "b7c3eef5ab3c98a8a0b7dca694adc681cd4aa443",
+          "lastSyncedAt": "2026-11-15T16:48:59.679Z"
         }
       ]
     }
