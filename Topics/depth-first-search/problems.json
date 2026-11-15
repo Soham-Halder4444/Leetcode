@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-15T16:27:43.266Z",
+  "updatedAt": "2026-11-15T16:28:02.512Z",
   "problems": [
     {
       "frontendId": "721",
@@ -84,6 +84,26 @@
           "path": "1192-critical-connections-in-a-network/1192-critical-connections-in-a-network.cpp",
           "sha": "c7a502a8afffc8f3c7760150a43b9617d330c125",
           "lastSyncedAt": "2026-11-15T16:26:56.738Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1319",
+      "title": "Number of Operations to Make Network Connected",
+      "slug": "number-of-operations-to-make-network-connected",
+      "problemName": "1319-number-of-operations-to-make-network-connected",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+      "folderPath": "1319-number-of-operations-to-make-network-connected/",
+      "readmePath": "1319-number-of-operations-to-make-network-connected/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1319-number-of-operations-to-make-network-connected.cpp",
+          "path": "1319-number-of-operations-to-make-network-connected/1319-number-of-operations-to-make-network-connected.cpp",
+          "sha": "1603cdeb9080faab0ef85c8c01dd0ec5b9675d5d",
+          "lastSyncedAt": "2026-11-15T16:28:02.512Z"
         }
       ]
     }
