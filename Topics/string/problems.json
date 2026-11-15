@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T16:48:45.643Z",
+  "updatedAt": "2026-11-15T16:49:15.847Z",
   "problems": [
     {
       "frontendId": "6",
@@ -184,6 +184,26 @@
           "path": "0721-accounts-merge/0721-accounts-merge.cpp",
           "sha": "8ba6f627efdbbcb0925ccd8ea748708081c2862f",
           "lastSyncedAt": "2026-11-15T16:27:43.266Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1358",
+      "title": "Number of Substrings Containing All Three Characters",
+      "slug": "number-of-substrings-containing-all-three-characters",
+      "problemName": "1358-number-of-substrings-containing-all-three-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+      "folderPath": "1358-number-of-substrings-containing-all-three-characters/",
+      "readmePath": "1358-number-of-substrings-containing-all-three-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1358-number-of-substrings-containing-all-three-characters.cpp",
+          "path": "1358-number-of-substrings-containing-all-three-characters/1358-number-of-substrings-containing-all-three-characters.cpp",
+          "sha": "47c81897da63e6f386b2df26012b8017e9dee722",
+          "lastSyncedAt": "2026-11-15T16:49:15.847Z"
         }
       ]
     },
