@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T16:51:53.065Z",
+  "updatedAt": "2026-11-15T16:53:28.330Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "0006-zigzag-conversion/0006-zigzag-conversion.cpp",
           "sha": "6c9d659c184a374d8c8a2f4cdd25e38dc7c7591d",
           "lastSyncedAt": "2026-11-15T16:43:05.704Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0020-valid-parentheses.cpp",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
+          "sha": "bc7825d3afe49e7b031949561133c72238751d38",
+          "lastSyncedAt": "2026-11-15T16:53:28.330Z"
         }
       ]
     },
