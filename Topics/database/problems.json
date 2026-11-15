@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T17:00:00.308Z",
+  "updatedAt": "2026-11-15T17:00:05.843Z",
   "problems": [
     {
       "frontendId": "176",
@@ -304,6 +304,26 @@
           "path": "1164-product-price-at-a-given-date/1164-product-price-at-a-given-date.sql",
           "sha": "f7220d10fbd4ba5a25f0366fbf7fcbb0d79c81bd",
           "lastSyncedAt": "2026-11-15T16:58:51.884Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1174",
+      "title": "Immediate Food Delivery II",
+      "slug": "immediate-food-delivery-ii",
+      "problemName": "1174-immediate-food-delivery-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/immediate-food-delivery-ii/",
+      "folderPath": "1174-immediate-food-delivery-ii/",
+      "readmePath": "1174-immediate-food-delivery-ii/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1174-immediate-food-delivery-ii.sql",
+          "path": "1174-immediate-food-delivery-ii/1174-immediate-food-delivery-ii.sql",
+          "sha": "38420fb66453a293a69e59d3fe9832bf9415cd33",
+          "lastSyncedAt": "2026-11-15T17:00:05.843Z"
         }
       ]
     },
