@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T16:54:53.702Z",
+  "updatedAt": "2026-11-15T16:55:03.241Z",
   "problems": [
     {
       "frontendId": "78",
@@ -104,6 +104,26 @@
           "path": "1707-maximum-xor-with-an-element-from-array/1707-maximum-xor-with-an-element-from-array.cpp",
           "sha": "aff9a95ff28360330616b65d48adf65cd2ea4321",
           "lastSyncedAt": "2026-11-15T16:33:07.697Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2220",
+      "title": "Minimum Bit Flips to Convert Number",
+      "slug": "minimum-bit-flips-to-convert-number",
+      "problemName": "2220-minimum-bit-flips-to-convert-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+      "folderPath": "2220-minimum-bit-flips-to-convert-number/",
+      "readmePath": "2220-minimum-bit-flips-to-convert-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2220-minimum-bit-flips-to-convert-number.cpp",
+          "path": "2220-minimum-bit-flips-to-convert-number/2220-minimum-bit-flips-to-convert-number.cpp",
+          "sha": "0b65b902248438ddc30e76be5670b2c40d656812",
+          "lastSyncedAt": "2026-11-15T16:55:03.241Z"
         }
       ]
     },
