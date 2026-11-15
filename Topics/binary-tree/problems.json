@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-15T16:35:36.494Z",
+  "updatedAt": "2026-11-15T16:35:45.104Z",
   "problems": [
     {
       "frontendId": "98",
@@ -124,6 +124,26 @@
           "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.cpp",
           "sha": "be25454fc393a12a14b8419ddf25457fe300fedf",
           "lastSyncedAt": "2026-11-15T16:35:12.321Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "problemName": "0700-search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "folderPath": "0700-search-in-a-binary-search-tree/",
+      "readmePath": "0700-search-in-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0700-search-in-a-binary-search-tree.cpp",
+          "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.cpp",
+          "sha": "c2217030396b248505f0589664e2cfea74fab66e",
+          "lastSyncedAt": "2026-11-15T16:35:45.104Z"
         }
       ]
     },
