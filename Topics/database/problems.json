@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database",
+    "tagId": "61043"
+  },
+  "updatedAt": "2026-11-15T16:57:22.694Z",
+  "problems": [
+    {
+      "frontendId": "1341",
+      "title": "Movie Rating",
+      "slug": "movie-rating",
+      "problemName": "1341-movie-rating",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/movie-rating/",
+      "folderPath": "1341-movie-rating/",
+      "readmePath": "1341-movie-rating/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1341-movie-rating.sql",
+          "path": "1341-movie-rating/1341-movie-rating.sql",
+          "sha": "fd614bf9f42def01505b58653f66cd3eb520d67d",
+          "lastSyncedAt": "2026-11-15T16:57:22.694Z"
+        }
+      ]
+    }
+  ]
+}
