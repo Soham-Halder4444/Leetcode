@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T17:06:06.967Z",
+  "updatedAt": "2026-11-15T17:06:28.442Z",
   "problems": [
     {
       "frontendId": "3",
@@ -284,6 +284,26 @@
           "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp",
           "sha": "b33dff58d80fe6475b9d488261cc65a84d4aad82",
           "lastSyncedAt": "2026-11-15T16:33:20.695Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "c867f51318e2a3afa6b9dc862cdbfe51bcfe6e42",
+          "lastSyncedAt": "2026-11-15T17:06:28.442Z"
         }
       ]
     },
