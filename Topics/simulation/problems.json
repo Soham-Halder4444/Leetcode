@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-15T16:26:34.863Z",
+  "updatedAt": "2026-11-15T16:52:21.895Z",
   "problems": [
+    {
+      "frontendId": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "problemName": "0735-asteroid-collision",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+      "folderPath": "0735-asteroid-collision/",
+      "readmePath": "0735-asteroid-collision/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0735-asteroid-collision.cpp",
+          "path": "0735-asteroid-collision/0735-asteroid-collision.cpp",
+          "sha": "beaefb4103c8a418d251ddc5f106bcf2079450ee",
+          "lastSyncedAt": "2026-11-15T16:52:21.895Z"
+        }
+      ]
+    },
     {
       "frontendId": "3477",
       "title": "Fruits Into Baskets II",
