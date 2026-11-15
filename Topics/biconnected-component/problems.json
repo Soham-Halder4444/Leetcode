@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "biconnected-component",
+    "name": "Biconnected Component",
+    "tagId": "61084"
+  },
+  "updatedAt": "2026-11-15T16:26:56.738Z",
+  "problems": [
+    {
+      "frontendId": "1192",
+      "title": "Critical Connections in a Network",
+      "slug": "critical-connections-in-a-network",
+      "problemName": "1192-critical-connections-in-a-network",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/critical-connections-in-a-network/",
+      "folderPath": "1192-critical-connections-in-a-network/",
+      "readmePath": "1192-critical-connections-in-a-network/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1192-critical-connections-in-a-network.cpp",
+          "path": "1192-critical-connections-in-a-network/1192-critical-connections-in-a-network.cpp",
+          "sha": "c7a502a8afffc8f3c7760150a43b9617d330c125",
+          "lastSyncedAt": "2026-11-15T16:26:56.738Z"
+        }
+      ]
+    }
+  ]
+}
