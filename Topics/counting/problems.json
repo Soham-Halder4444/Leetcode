@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-15T16:48:59.679Z",
+  "updatedAt": "2026-11-15T17:05:06.293Z",
   "problems": [
     {
       "frontendId": "347",
@@ -64,6 +64,26 @@
           "path": "0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.cpp",
           "sha": "b7c3eef5ab3c98a8a0b7dca694adc681cd4aa443",
           "lastSyncedAt": "2026-11-15T16:48:59.679Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1781",
+      "title": "Sum of Beauty of All Substrings",
+      "slug": "sum-of-beauty-of-all-substrings",
+      "problemName": "1781-sum-of-beauty-of-all-substrings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+      "folderPath": "1781-sum-of-beauty-of-all-substrings/",
+      "readmePath": "1781-sum-of-beauty-of-all-substrings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1781-sum-of-beauty-of-all-substrings.cpp",
+          "path": "1781-sum-of-beauty-of-all-substrings/1781-sum-of-beauty-of-all-substrings.cpp",
+          "sha": "1e65996520791ea7520c51c7fb1bfa1d83ceda9e",
+          "lastSyncedAt": "2026-11-15T17:05:06.293Z"
         }
       ]
     }
