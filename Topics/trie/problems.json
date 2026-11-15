@@ -5,8 +5,28 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-11-15T16:33:20.695Z",
+  "updatedAt": "2026-11-15T17:06:58.033Z",
   "problems": [
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "0014-longest-common-prefix/",
+      "readmePath": "0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0014-longest-common-prefix.cpp",
+          "path": "0014-longest-common-prefix/0014-longest-common-prefix.cpp",
+          "sha": "94a52707d79a76bd2ec5f94b556f6b1ada69acfd",
+          "lastSyncedAt": "2026-11-15T17:06:58.033Z"
+        }
+      ]
+    },
     {
       "frontendId": "208",
       "title": "Implement Trie (Prefix Tree)",
