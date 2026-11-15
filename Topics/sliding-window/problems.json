@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-15T16:50:22.693Z",
+  "updatedAt": "2026-11-15T16:50:51.302Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "0076-minimum-window-substring/0076-minimum-window-substring.cpp",
           "sha": "aa1e92474605e735902d8f036212ec1043da2e2f",
           "lastSyncedAt": "2026-11-15T16:48:45.643Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "0239-sliding-window-maximum/",
+      "readmePath": "0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0239-sliding-window-maximum.cpp",
+          "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.cpp",
+          "sha": "269179cee9e3ec450058da9321e6c59d059a6dda",
+          "lastSyncedAt": "2026-11-15T16:50:51.302Z"
         }
       ]
     },
