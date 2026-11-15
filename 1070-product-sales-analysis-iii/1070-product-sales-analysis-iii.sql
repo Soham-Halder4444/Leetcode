@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT t.product_id,t.year AS 'first_year',t.quantity AS 'quantity',t.price AS 'price' FROM (SELECT *,MIN(year) OVER(PARTITION BY product_id) AS 'min' FROM Sales)t WHERE t.year=t.min 
