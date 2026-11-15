@@ -5,7 +5,7 @@
     "name": "Data Stream",
     "tagId": "61063"
   },
-  "updatedAt": "2026-11-15T16:47:03.466Z",
+  "updatedAt": "2026-11-15T16:47:25.244Z",
   "problems": [
     {
       "frontendId": "295",
@@ -24,6 +24,26 @@
           "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.cpp",
           "sha": "8b536b086775da283d55c6a124b7d16297e350f4",
           "lastSyncedAt": "2026-11-15T16:47:03.466Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "703",
+      "title": "Kth Largest Element in a Stream",
+      "slug": "kth-largest-element-in-a-stream",
+      "problemName": "0703-kth-largest-element-in-a-stream",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "folderPath": "0703-kth-largest-element-in-a-stream/",
+      "readmePath": "0703-kth-largest-element-in-a-stream/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0703-kth-largest-element-in-a-stream.cpp",
+          "path": "0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.cpp",
+          "sha": "c0acd03b3f0b24d7da0295074cf18c8a89c6d4cf",
+          "lastSyncedAt": "2026-11-15T16:47:25.244Z"
         }
       ]
     }
