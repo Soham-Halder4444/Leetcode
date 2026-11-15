@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T16:59:03.956Z",
+  "updatedAt": "2026-11-15T16:59:09.354Z",
   "problems": [
     {
       "frontendId": "176",
@@ -344,6 +344,26 @@
           "path": "1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql",
           "sha": "6909e6498d9cb2d37d3da9686e1b6bb489444acb",
           "lastSyncedAt": "2026-11-15T16:58:24.164Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1789",
+      "title": "Primary Department for Each Employee",
+      "slug": "primary-department-for-each-employee",
+      "problemName": "1789-primary-department-for-each-employee",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/primary-department-for-each-employee/",
+      "folderPath": "1789-primary-department-for-each-employee/",
+      "readmePath": "1789-primary-department-for-each-employee/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1789-primary-department-for-each-employee.sql",
+          "path": "1789-primary-department-for-each-employee/1789-primary-department-for-each-employee.sql",
+          "sha": "8334e4ec9e3a957d53c82de6ae92303ef8fdbbae",
+          "lastSyncedAt": "2026-11-15T16:59:09.354Z"
         }
       ]
     },
