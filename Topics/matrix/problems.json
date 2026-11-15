@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-15T16:55:28.212Z",
+  "updatedAt": "2026-11-15T16:56:02.216Z",
   "problems": [
     {
       "frontendId": "37",
@@ -24,6 +24,26 @@
           "path": "0037-sudoku-solver/0037-sudoku-solver.cpp",
           "sha": "18af42de9dee64d11d211dd6c5328db98b293096",
           "lastSyncedAt": "2026-11-15T16:55:28.212Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "problemName": "0079-word-search",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+      "folderPath": "0079-word-search/",
+      "readmePath": "0079-word-search/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0079-word-search.cpp",
+          "path": "0079-word-search/0079-word-search.cpp",
+          "sha": "71fbdd8ae3f08775deadfa7455ff6f88abd3383e",
+          "lastSyncedAt": "2026-11-15T16:56:02.216Z"
         }
       ]
     },
