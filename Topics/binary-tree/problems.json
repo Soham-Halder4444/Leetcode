@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-15T16:44:52.471Z",
+  "updatedAt": "2026-11-15T16:45:09.652Z",
   "problems": [
     {
       "frontendId": "94",
@@ -84,6 +84,26 @@
           "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
           "sha": "9b3d1361c47116330db73f27cb9b3d21ef701772",
           "lastSyncedAt": "2026-11-15T16:41:12.458Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "problemName": "0102-binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "folderPath": "0102-binary-tree-level-order-traversal/",
+      "readmePath": "0102-binary-tree-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0102-binary-tree-level-order-traversal.cpp",
+          "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.cpp",
+          "sha": "2318bcb83c3ce9ec21ec9d14cec7d952b149b6c1",
+          "lastSyncedAt": "2026-11-15T16:45:09.652Z"
         }
       ]
     },
