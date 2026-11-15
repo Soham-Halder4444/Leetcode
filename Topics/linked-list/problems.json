@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-15T17:04:09.455Z",
+  "updatedAt": "2026-11-15T17:04:27.549Z",
   "problems": [
     {
       "frontendId": "19",
@@ -164,6 +164,26 @@
           "path": "0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.cpp",
           "sha": "ce96c621b5e0e9221da643eaef4e4cb9cfac04ba",
           "lastSyncedAt": "2026-11-15T17:02:26.035Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "0141-linked-list-cycle/",
+      "readmePath": "0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0141-linked-list-cycle.cpp",
+          "path": "0141-linked-list-cycle/0141-linked-list-cycle.cpp",
+          "sha": "9b7aa90695a3b74acee4c6ba17d464a269ccd6a7",
+          "lastSyncedAt": "2026-11-15T17:04:27.549Z"
         }
       ]
     },
