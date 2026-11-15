@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-15T16:53:15.322Z",
+  "updatedAt": "2026-11-15T16:53:42.738Z",
   "problems": [
     {
       "frontendId": "155",
@@ -64,6 +64,26 @@
           "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp",
           "sha": "b33dff58d80fe6475b9d488261cc65a84d4aad82",
           "lastSyncedAt": "2026-11-15T16:33:20.695Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "232",
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "problemName": "0232-implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "folderPath": "0232-implement-queue-using-stacks/",
+      "readmePath": "0232-implement-queue-using-stacks/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0232-implement-queue-using-stacks.cpp",
+          "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.cpp",
+          "sha": "c38f4a46390d2bfad16fae1c01f0ff41b887e876",
+          "lastSyncedAt": "2026-11-15T16:53:42.738Z"
         }
       ]
     },
