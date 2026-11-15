@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-15T16:25:59.416Z",
+  "updatedAt": "2026-11-15T16:28:14.501Z",
   "problems": [
+    {
+      "frontendId": "778",
+      "title": "Swim in Rising Water",
+      "slug": "swim-in-rising-water",
+      "problemName": "0778-swim-in-rising-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/swim-in-rising-water/",
+      "folderPath": "0778-swim-in-rising-water/",
+      "readmePath": "0778-swim-in-rising-water/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0778-swim-in-rising-water.cpp",
+          "path": "0778-swim-in-rising-water/0778-swim-in-rising-water.cpp",
+          "sha": "0ed996c14899ed4b969891376b9f562aab0b9aca",
+          "lastSyncedAt": "2026-11-15T16:28:14.501Z"
+        }
+      ]
+    },
     {
       "frontendId": "827",
       "title": "Making A Large Island",
