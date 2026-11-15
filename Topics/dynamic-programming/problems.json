@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-15T16:29:38.056Z",
+  "updatedAt": "2026-11-15T16:31:57.312Z",
   "problems": [
+    {
+      "frontendId": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "problemName": "0542-01-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+      "folderPath": "0542-01-matrix/",
+      "readmePath": "0542-01-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0542-01-matrix.cpp",
+          "path": "0542-01-matrix/0542-01-matrix.cpp",
+          "sha": "c123cd653ecd01cc11e0672a3ca0eeddd98be627",
+          "lastSyncedAt": "2026-11-15T16:31:57.312Z"
+        }
+      ]
+    },
     {
       "frontendId": "787",
       "title": "Cheapest Flights Within K Stops",
