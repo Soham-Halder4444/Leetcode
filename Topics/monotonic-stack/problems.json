@@ -5,8 +5,28 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-15T16:34:19.271Z",
+  "updatedAt": "2026-11-15T16:50:34.003Z",
   "problems": [
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0901-online-stock-span.cpp",
+          "path": "0901-online-stock-span/0901-online-stock-span.cpp",
+          "sha": "ed6fefe94d26ac0943a2ad2b6b6c436a50f352d7",
+          "lastSyncedAt": "2026-11-15T16:50:34.003Z"
+        }
+      ]
+    },
     {
       "frontendId": "1008",
       "title": "Construct Binary Search Tree from Preorder Traversal",
