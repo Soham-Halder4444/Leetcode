@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T16:49:45.765Z",
+  "updatedAt": "2026-11-15T16:49:57.728Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "0860-lemonade-change/0860-lemonade-change.cpp",
           "sha": "e6c519c01591e60e752987a5d1263cc01d0964ea",
           "lastSyncedAt": "2026-11-15T16:46:00.144Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "0904-fruit-into-baskets/",
+      "readmePath": "0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0904-fruit-into-baskets.cpp",
+          "path": "0904-fruit-into-baskets/0904-fruit-into-baskets.cpp",
+          "sha": "7340aced39cabc16223ee85306c1ab807a9d2aed",
+          "lastSyncedAt": "2026-11-15T16:49:57.728Z"
         }
       ]
     },
