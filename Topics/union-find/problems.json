@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-15T17:33:48.132Z",
+  "updatedAt": "2026-11-15T17:35:03.063Z",
   "problems": [
     {
       "frontendId": "130",
@@ -123,7 +123,7 @@
           "filename": "0785-is-graph-bipartite.cpp",
           "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.cpp",
           "sha": "ffd83c6c52a5f3cbdbf587bfc88f9fd69b79d342",
-          "lastSyncedAt": "2026-11-15T17:18:14.236Z"
+          "lastSyncedAt": "2026-11-15T17:35:03.063Z"
         }
       ]
     },
