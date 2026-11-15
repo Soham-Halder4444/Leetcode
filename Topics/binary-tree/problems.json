@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-tree",
+    "name": "Binary Tree",
+    "tagId": "61057"
+  },
+  "updatedAt": "2026-11-15T16:33:34.961Z",
+  "problems": [
+    {
+      "frontendId": "173",
+      "title": "Binary Search Tree Iterator",
+      "slug": "binary-search-tree-iterator",
+      "problemName": "0173-binary-search-tree-iterator",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-iterator/",
+      "folderPath": "0173-binary-search-tree-iterator/",
+      "readmePath": "0173-binary-search-tree-iterator/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0173-binary-search-tree-iterator.cpp",
+          "path": "0173-binary-search-tree-iterator/0173-binary-search-tree-iterator.cpp",
+          "sha": "5592c82d132664a223ee332db97e1f47a5078483",
+          "lastSyncedAt": "2026-11-15T16:33:34.961Z"
+        }
+      ]
+    }
+  ]
+}
