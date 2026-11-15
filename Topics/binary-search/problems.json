@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-15T16:39:23.831Z",
+  "updatedAt": "2026-11-15T16:50:07.654Z",
   "problems": [
     {
       "frontendId": "35",
@@ -64,6 +64,26 @@
           "path": "0778-swim-in-rising-water/0778-swim-in-rising-water.cpp",
           "sha": "0ed996c14899ed4b969891376b9f562aab0b9aca",
           "lastSyncedAt": "2026-11-15T16:28:14.501Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "1004-max-consecutive-ones-iii/",
+      "readmePath": "1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1004-max-consecutive-ones-iii.cpp",
+          "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.cpp",
+          "sha": "669f04c33252f0ab089c60157f9ce3b8b660c9ee",
+          "lastSyncedAt": "2026-11-15T16:50:07.654Z"
         }
       ]
     },
