@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T16:54:05.363Z",
+  "updatedAt": "2026-11-15T16:55:09.362Z",
   "problems": [
     {
       "frontendId": "9",
@@ -24,6 +24,26 @@
           "path": "0009-palindrome-number/0009-palindrome-number.cpp",
           "sha": "92b9a25d6c228aeb701634eb0ac6e42e3578dba9",
           "lastSyncedAt": "2026-11-15T16:43:14.971Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "problemName": "0029-divide-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+      "folderPath": "0029-divide-two-integers/",
+      "readmePath": "0029-divide-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0029-divide-two-integers.cpp",
+          "path": "0029-divide-two-integers/0029-divide-two-integers.cpp",
+          "sha": "2b1d34f7e2002ced397ae31d09e41c2282ac0f3f",
+          "lastSyncedAt": "2026-11-15T16:55:09.362Z"
         }
       ]
     },
