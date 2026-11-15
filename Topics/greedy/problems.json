@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-15T16:46:09.471Z",
+  "updatedAt": "2026-11-15T16:47:46.960Z",
   "problems": [
     {
       "frontendId": "455",
@@ -44,6 +44,26 @@
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
           "sha": "5018c6788eae7e560d71220ac875e1afc1107aa3",
           "lastSyncedAt": "2026-11-15T16:45:40.802Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "846",
+      "title": "Hand of Straights",
+      "slug": "hand-of-straights",
+      "problemName": "0846-hand-of-straights",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/hand-of-straights/",
+      "folderPath": "0846-hand-of-straights/",
+      "readmePath": "0846-hand-of-straights/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0846-hand-of-straights.cpp",
+          "path": "0846-hand-of-straights/0846-hand-of-straights.cpp",
+          "sha": "ec2af39e844dcb9a02191db14d9ba077e160f294",
+          "lastSyncedAt": "2026-11-15T16:47:46.960Z"
         }
       ]
     },
