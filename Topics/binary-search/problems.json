@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-15T17:48:57.111Z",
+  "updatedAt": "2026-11-15T17:55:57.916Z",
   "problems": [
     {
       "frontendId": "35",
@@ -43,7 +43,7 @@
           "filename": "0222-count-complete-tree-nodes.cpp",
           "path": "0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.cpp",
           "sha": "6e6513fee2f2f5afd9e0f0543096d3a50d230de3",
-          "lastSyncedAt": "2026-11-15T16:38:18.386Z"
+          "lastSyncedAt": "2026-11-15T17:55:57.916Z"
         }
       ]
     },
