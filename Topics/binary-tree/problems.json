@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-15T16:45:24.140Z",
+  "updatedAt": "2026-11-15T16:47:25.244Z",
   "problems": [
     {
       "frontendId": "94",
@@ -564,6 +564,26 @@
           "path": "0701-insert-into-a-binary-search-tree/0701-insert-into-a-binary-search-tree.cpp",
           "sha": "dc26ccf12cfb874c9d634f73f98f8f383f0de1d4",
           "lastSyncedAt": "2026-11-15T16:35:36.494Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "703",
+      "title": "Kth Largest Element in a Stream",
+      "slug": "kth-largest-element-in-a-stream",
+      "problemName": "0703-kth-largest-element-in-a-stream",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "folderPath": "0703-kth-largest-element-in-a-stream/",
+      "readmePath": "0703-kth-largest-element-in-a-stream/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0703-kth-largest-element-in-a-stream.cpp",
+          "path": "0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.cpp",
+          "sha": "c0acd03b3f0b24d7da0295074cf18c8a89c6d4cf",
+          "lastSyncedAt": "2026-11-15T16:47:25.244Z"
         }
       ]
     },
