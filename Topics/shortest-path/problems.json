@@ -5,7 +5,7 @@
     "name": "Shortest Path",
     "tagId": "61076"
   },
-  "updatedAt": "2026-11-15T17:48:18.414Z",
+  "updatedAt": "2026-11-15T17:48:31.927Z",
   "problems": [
     {
       "frontendId": "743",
@@ -83,7 +83,7 @@
           "filename": "1976-number-of-ways-to-arrive-at-destination.cpp",
           "path": "1976-number-of-ways-to-arrive-at-destination/1976-number-of-ways-to-arrive-at-destination.cpp",
           "sha": "8ae26313ec57d21df8edb764986a38d013521f2a",
-          "lastSyncedAt": "2026-11-15T17:33:16.894Z"
+          "lastSyncedAt": "2026-11-15T17:48:31.927Z"
         }
       ]
     }
