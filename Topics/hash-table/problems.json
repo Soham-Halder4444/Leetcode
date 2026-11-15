@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T16:48:59.679Z",
+  "updatedAt": "2026-11-15T16:49:15.847Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.cpp",
           "sha": "b7c3eef5ab3c98a8a0b7dca694adc681cd4aa443",
           "lastSyncedAt": "2026-11-15T16:48:59.679Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1358",
+      "title": "Number of Substrings Containing All Three Characters",
+      "slug": "number-of-substrings-containing-all-three-characters",
+      "problemName": "1358-number-of-substrings-containing-all-three-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+      "folderPath": "1358-number-of-substrings-containing-all-three-characters/",
+      "readmePath": "1358-number-of-substrings-containing-all-three-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1358-number-of-substrings-containing-all-three-characters.cpp",
+          "path": "1358-number-of-substrings-containing-all-three-characters/1358-number-of-substrings-containing-all-three-characters.cpp",
+          "sha": "47c81897da63e6f386b2df26012b8017e9dee722",
+          "lastSyncedAt": "2026-11-15T16:49:15.847Z"
         }
       ]
     }
