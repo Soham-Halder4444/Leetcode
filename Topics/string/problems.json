@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T17:05:36.503Z",
+  "updatedAt": "2026-11-15T17:05:43.373Z",
   "problems": [
     {
       "frontendId": "3",
@@ -84,6 +84,26 @@
           "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.cpp",
           "sha": "b49bfb30f2a120e165ec40518f710fad41063992",
           "lastSyncedAt": "2026-11-15T17:05:36.503Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "problemName": "0013-roman-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+      "folderPath": "0013-roman-to-integer/",
+      "readmePath": "0013-roman-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0013-roman-to-integer.cpp",
+          "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
+          "sha": "eca918246a68e735ac41c25758f7e7870523ca95",
+          "lastSyncedAt": "2026-11-15T17:05:43.373Z"
         }
       ]
     },
