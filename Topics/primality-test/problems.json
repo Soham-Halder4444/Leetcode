@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "primality-test",
+    "name": "Primality Test",
+    "tagId": "95392"
+  },
+  "updatedAt": "2026-11-15T16:54:05.363Z",
+  "problems": [
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "0204-count-primes/",
+      "readmePath": "0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0204-count-primes.cpp",
+          "path": "0204-count-primes/0204-count-primes.cpp",
+          "sha": "85e3d43d1135bb34b6fd16b2a04a806aeac14308",
+          "lastSyncedAt": "2026-11-15T16:54:05.363Z"
+        }
+      ]
+    }
+  ]
+}
