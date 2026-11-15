@@ -5,8 +5,28 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-15T16:54:40.894Z",
+  "updatedAt": "2026-11-15T16:55:28.212Z",
   "problems": [
+    {
+      "frontendId": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "problemName": "0037-sudoku-solver",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+      "folderPath": "0037-sudoku-solver/",
+      "readmePath": "0037-sudoku-solver/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0037-sudoku-solver.cpp",
+          "path": "0037-sudoku-solver/0037-sudoku-solver.cpp",
+          "sha": "18af42de9dee64d11d211dd6c5328db98b293096",
+          "lastSyncedAt": "2026-11-15T16:55:28.212Z"
+        }
+      ]
+    },
     {
       "frontendId": "78",
       "title": "Subsets",
