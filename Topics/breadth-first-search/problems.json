@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T16:41:59.834Z",
+  "updatedAt": "2026-11-15T16:42:26.847Z",
   "problems": [
     {
       "frontendId": "101",
@@ -24,6 +24,26 @@
           "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
           "sha": "9b3d1361c47116330db73f27cb9b3d21ef701772",
           "lastSyncedAt": "2026-11-15T16:41:12.458Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "problemName": "0103-binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "folderPath": "0103-binary-tree-zigzag-level-order-traversal/",
+      "readmePath": "0103-binary-tree-zigzag-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0103-binary-tree-zigzag-level-order-traversal.cpp",
+          "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.cpp",
+          "sha": "277b927e074aea19813c11e334736958c6e5b18f",
+          "lastSyncedAt": "2026-11-15T16:42:26.847Z"
         }
       ]
     },
