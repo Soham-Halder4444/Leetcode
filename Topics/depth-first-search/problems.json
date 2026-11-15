@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-15T17:31:28.990Z",
+  "updatedAt": "2026-11-15T17:31:48.940Z",
   "problems": [
     {
       "frontendId": "79",
@@ -503,7 +503,7 @@
           "filename": "0721-accounts-merge.cpp",
           "path": "0721-accounts-merge/0721-accounts-merge.cpp",
           "sha": "8ba6f627efdbbcb0925ccd8ea748708081c2862f",
-          "lastSyncedAt": "2026-11-15T17:15:21.982Z"
+          "lastSyncedAt": "2026-11-15T17:31:48.940Z"
         }
       ]
     },
