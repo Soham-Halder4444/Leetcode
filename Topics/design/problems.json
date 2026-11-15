@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-15T16:36:54.725Z",
+  "updatedAt": "2026-11-15T16:47:03.466Z",
   "problems": [
     {
       "frontendId": "173",
@@ -44,6 +44,26 @@
           "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp",
           "sha": "b33dff58d80fe6475b9d488261cc65a84d4aad82",
           "lastSyncedAt": "2026-11-15T16:33:20.695Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "problemName": "0295-find-median-from-data-stream",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "folderPath": "0295-find-median-from-data-stream/",
+      "readmePath": "0295-find-median-from-data-stream/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0295-find-median-from-data-stream.cpp",
+          "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.cpp",
+          "sha": "8b536b086775da283d55c6a124b7d16297e350f4",
+          "lastSyncedAt": "2026-11-15T16:47:03.466Z"
         }
       ]
     },
