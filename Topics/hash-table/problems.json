@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T16:38:50.351Z",
+  "updatedAt": "2026-11-15T16:41:59.834Z",
   "problems": [
     {
       "frontendId": "105",
@@ -144,6 +144,26 @@
           "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.cpp",
           "sha": "20119008f8c6ce4e0ae6adebad5b9bda408a82fe",
           "lastSyncedAt": "2026-11-15T16:27:15.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "987",
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "slug": "vertical-order-traversal-of-a-binary-tree",
+      "problemName": "0987-vertical-order-traversal-of-a-binary-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+      "folderPath": "0987-vertical-order-traversal-of-a-binary-tree/",
+      "readmePath": "0987-vertical-order-traversal-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0987-vertical-order-traversal-of-a-binary-tree.cpp",
+          "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.cpp",
+          "sha": "8e8026d25634189944ab7ef65416090611a9e1ae",
+          "lastSyncedAt": "2026-11-15T16:41:59.834Z"
         }
       ]
     }
