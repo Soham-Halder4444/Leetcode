@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-15T16:44:20.708Z",
+  "updatedAt": "2026-11-15T16:44:39.562Z",
   "problems": [
     {
       "frontendId": "94",
@@ -164,6 +164,26 @@
           "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.cpp",
           "sha": "0c6b5b73011c6f3b82e637804d2f85820c641b36",
           "lastSyncedAt": "2026-11-15T16:37:22.068Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "problemName": "0110-balanced-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+      "folderPath": "0110-balanced-binary-tree/",
+      "readmePath": "0110-balanced-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0110-balanced-binary-tree.cpp",
+          "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.cpp",
+          "sha": "1705fd50d3896aced8c91ea3c42aa52f98ee6472",
+          "lastSyncedAt": "2026-11-15T16:44:39.562Z"
         }
       ]
     },
