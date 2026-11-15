@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-15T16:52:46.456Z",
+  "updatedAt": "2026-11-15T16:53:00.551Z",
   "problems": [
     {
       "frontendId": "84",
@@ -64,6 +64,26 @@
           "path": "0402-remove-k-digits/0402-remove-k-digits.cpp",
           "sha": "796b4cf1b92af6d9133da20aac9159ced85f6b82",
           "lastSyncedAt": "2026-11-15T16:51:53.065Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "0496-next-greater-element-i/",
+      "readmePath": "0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0496-next-greater-element-i.cpp",
+          "path": "0496-next-greater-element-i/0496-next-greater-element-i.cpp",
+          "sha": "3b1849f9af48ffdfb4d548c6e13a0012c7ed0d06",
+          "lastSyncedAt": "2026-11-15T16:53:00.551Z"
         }
       ]
     },
