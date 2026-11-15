@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T17:01:29.089Z",
+  "updatedAt": "2026-11-15T17:01:35.180Z",
   "problems": [
     {
       "frontendId": "176",
@@ -764,6 +764,26 @@
           "path": "1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql",
           "sha": "6909e6498d9cb2d37d3da9686e1b6bb489444acb",
           "lastSyncedAt": "2026-11-15T16:58:24.164Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1683",
+      "title": "Invalid Tweets",
+      "slug": "invalid-tweets",
+      "problemName": "1683-invalid-tweets",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invalid-tweets/",
+      "folderPath": "1683-invalid-tweets/",
+      "readmePath": "1683-invalid-tweets/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1683-invalid-tweets.sql",
+          "path": "1683-invalid-tweets/1683-invalid-tweets.sql",
+          "sha": "25165c8c980fb5aa24170ba0765ec2da037a0429",
+          "lastSyncedAt": "2026-11-15T17:01:35.180Z"
         }
       ]
     },
