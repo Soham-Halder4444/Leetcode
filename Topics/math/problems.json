@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T16:55:09.362Z",
+  "updatedAt": "2026-11-15T16:55:18.634Z",
   "problems": [
     {
       "frontendId": "9",
@@ -84,6 +84,26 @@
           "path": "0204-count-primes/0204-count-primes.cpp",
           "sha": "85e3d43d1135bb34b6fd16b2a04a806aeac14308",
           "lastSyncedAt": "2026-11-15T16:54:05.363Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "0231-power-of-two/",
+      "readmePath": "0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0231-power-of-two.cpp",
+          "path": "0231-power-of-two/0231-power-of-two.cpp",
+          "sha": "572b5d740747af96af544667836bd0d68777569c",
+          "lastSyncedAt": "2026-11-15T16:55:18.634Z"
         }
       ]
     },
