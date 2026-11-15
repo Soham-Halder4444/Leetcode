@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T17:17:07.170Z",
+  "updatedAt": "2026-11-15T17:17:26.797Z",
   "problems": [
     {
       "frontendId": "1",
@@ -903,7 +903,7 @@
           "filename": "1091-shortest-path-in-binary-matrix.cpp",
           "path": "1091-shortest-path-in-binary-matrix/1091-shortest-path-in-binary-matrix.cpp",
           "sha": "e2fdbebe6b2c3a4f078c1af4f332a3b9b592973b",
-          "lastSyncedAt": "2026-11-15T16:30:16.130Z"
+          "lastSyncedAt": "2026-11-15T17:17:26.797Z"
         }
       ]
     },
