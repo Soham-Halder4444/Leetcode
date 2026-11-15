@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-15T16:55:28.212Z",
+  "updatedAt": "2026-11-15T16:55:51.551Z",
   "problems": [
     {
       "frontendId": "37",
@@ -24,6 +24,26 @@
           "path": "0037-sudoku-solver/0037-sudoku-solver.cpp",
           "sha": "18af42de9dee64d11d211dd6c5328db98b293096",
           "lastSyncedAt": "2026-11-15T16:55:28.212Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "problemName": "0051-n-queens",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+      "folderPath": "0051-n-queens/",
+      "readmePath": "0051-n-queens/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0051-n-queens.cpp",
+          "path": "0051-n-queens/0051-n-queens.cpp",
+          "sha": "ec86550535f85de0d90b8775a1d34e70bbcadf61",
+          "lastSyncedAt": "2026-11-15T16:55:51.551Z"
         }
       ]
     },
