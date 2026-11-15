@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T16:46:32.821Z",
+  "updatedAt": "2026-11-15T16:47:46.960Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "0721-accounts-merge/0721-accounts-merge.cpp",
           "sha": "8ba6f627efdbbcb0925ccd8ea748708081c2862f",
           "lastSyncedAt": "2026-11-15T16:27:43.266Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "846",
+      "title": "Hand of Straights",
+      "slug": "hand-of-straights",
+      "problemName": "0846-hand-of-straights",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/hand-of-straights/",
+      "folderPath": "0846-hand-of-straights/",
+      "readmePath": "0846-hand-of-straights/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0846-hand-of-straights.cpp",
+          "path": "0846-hand-of-straights/0846-hand-of-straights.cpp",
+          "sha": "ec2af39e844dcb9a02191db14d9ba077e160f294",
+          "lastSyncedAt": "2026-11-15T16:47:46.960Z"
         }
       ]
     },
