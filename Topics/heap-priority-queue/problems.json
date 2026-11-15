@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-15T16:47:25.244Z",
+  "updatedAt": "2026-11-15T16:48:03.802Z",
   "problems": [
     {
       "frontendId": "295",
@@ -44,6 +44,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "0aa367ef87cd108808f3da359a40c64ac0b938b5",
           "lastSyncedAt": "2026-11-15T16:46:32.821Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "621",
+      "title": "Task Scheduler",
+      "slug": "task-scheduler",
+      "problemName": "0621-task-scheduler",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+      "folderPath": "0621-task-scheduler/",
+      "readmePath": "0621-task-scheduler/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0621-task-scheduler.cpp",
+          "path": "0621-task-scheduler/0621-task-scheduler.cpp",
+          "sha": "dd9565cc9fd99d590d392ac30cea8dce6509d39f",
+          "lastSyncedAt": "2026-11-15T16:48:03.802Z"
         }
       ]
     },
