@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T16:27:43.266Z",
+  "updatedAt": "2026-11-15T16:28:02.512Z",
   "problems": [
     {
       "frontendId": "721",
@@ -44,6 +44,26 @@
           "path": "0827-making-a-large-island/0827-making-a-large-island.cpp",
           "sha": "fa97424bbe409596097b87edb8d989350ef19467",
           "lastSyncedAt": "2026-11-15T16:25:59.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1319",
+      "title": "Number of Operations to Make Network Connected",
+      "slug": "number-of-operations-to-make-network-connected",
+      "problemName": "1319-number-of-operations-to-make-network-connected",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+      "folderPath": "1319-number-of-operations-to-make-network-connected/",
+      "readmePath": "1319-number-of-operations-to-make-network-connected/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1319-number-of-operations-to-make-network-connected.cpp",
+          "path": "1319-number-of-operations-to-make-network-connected/1319-number-of-operations-to-make-network-connected.cpp",
+          "sha": "1603cdeb9080faab0ef85c8c01dd0ec5b9675d5d",
+          "lastSyncedAt": "2026-11-15T16:28:02.512Z"
         }
       ]
     }
