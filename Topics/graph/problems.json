@@ -5,8 +5,28 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-15T16:26:56.738Z",
+  "updatedAt": "2026-11-15T16:27:15.206Z",
   "problems": [
+    {
+      "frontendId": "947",
+      "title": "Most Stones Removed with Same Row or Column",
+      "slug": "most-stones-removed-with-same-row-or-column",
+      "problemName": "0947-most-stones-removed-with-same-row-or-column",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+      "folderPath": "0947-most-stones-removed-with-same-row-or-column/",
+      "readmePath": "0947-most-stones-removed-with-same-row-or-column/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0947-most-stones-removed-with-same-row-or-column.cpp",
+          "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.cpp",
+          "sha": "20119008f8c6ce4e0ae6adebad5b9bda408a82fe",
+          "lastSyncedAt": "2026-11-15T16:27:15.206Z"
+        }
+      ]
+    },
     {
       "frontendId": "1192",
       "title": "Critical Connections in a Network",
