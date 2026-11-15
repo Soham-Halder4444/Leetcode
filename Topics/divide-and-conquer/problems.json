@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-15T16:37:22.068Z",
+  "updatedAt": "2026-11-15T16:37:43.061Z",
   "problems": [
+    {
+      "frontendId": "106",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+      "problemName": "0106-construct-binary-tree-from-inorder-and-postorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "folderPath": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "readmePath": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
+          "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
+          "sha": "b52a6af3cb33b97c0aa7e7844a5da28d3f84b5fa",
+          "lastSyncedAt": "2026-11-15T16:37:43.061Z"
+        }
+      ]
+    },
     {
       "frontendId": "108",
       "title": "Convert Sorted Array to Binary Search Tree",
