@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-15T16:52:34.077Z",
+  "updatedAt": "2026-11-15T16:52:46.456Z",
   "problems": [
     {
       "frontendId": "84",
@@ -164,6 +164,26 @@
           "path": "0402-remove-k-digits/0402-remove-k-digits.cpp",
           "sha": "796b4cf1b92af6d9133da20aac9159ced85f6b82",
           "lastSyncedAt": "2026-11-15T16:51:53.065Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "problemName": "0503-next-greater-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
+      "folderPath": "0503-next-greater-element-ii/",
+      "readmePath": "0503-next-greater-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0503-next-greater-element-ii.cpp",
+          "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.cpp",
+          "sha": "36fdf7be72f4e704b623a4fbb7a53f70be6052d8",
+          "lastSyncedAt": "2026-11-15T16:52:46.456Z"
         }
       ]
     },
