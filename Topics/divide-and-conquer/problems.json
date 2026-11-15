@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-15T17:42:44.162Z",
+  "updatedAt": "2026-11-15T17:45:49.710Z",
   "problems": [
     {
       "frontendId": "23",
@@ -123,7 +123,7 @@
           "filename": "0169-majority-element.cpp",
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "39e5b29c82d41b549511859429610b1329363ca9",
-          "lastSyncedAt": "2026-11-15T17:42:44.162Z"
+          "lastSyncedAt": "2026-11-15T17:45:49.710Z"
         }
       ]
     },
