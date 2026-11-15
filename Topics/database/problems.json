@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T17:01:12.358Z",
+  "updatedAt": "2026-11-15T17:01:17.827Z",
   "problems": [
     {
       "frontendId": "176",
@@ -644,6 +644,26 @@
           "path": "1527-patients-with-a-condition/1527-patients-with-a-condition.sql",
           "sha": "9c607a3fbe66cd904ff93d1aae6d3e9c3aac8443",
           "lastSyncedAt": "2026-11-15T16:58:18.709Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1581",
+      "title": "Customer Who Visited but Did Not Make Any Transactions",
+      "slug": "customer-who-visited-but-did-not-make-any-transactions",
+      "problemName": "1581-customer-who-visited-but-did-not-make-any-transactions",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/",
+      "folderPath": "1581-customer-who-visited-but-did-not-make-any-transactions/",
+      "readmePath": "1581-customer-who-visited-but-did-not-make-any-transactions/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1581-customer-who-visited-but-did-not-make-any-transactions.sql",
+          "path": "1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql",
+          "sha": "f66d23c2b1176538605ba68a082872bae256cc1a",
+          "lastSyncedAt": "2026-11-15T17:01:17.827Z"
         }
       ]
     },
