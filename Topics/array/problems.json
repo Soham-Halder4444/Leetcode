@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T16:30:16.130Z",
+  "updatedAt": "2026-11-15T16:31:43.217Z",
   "problems": [
     {
       "frontendId": "88",
@@ -24,6 +24,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.cpp",
           "sha": "c4bcba98c84cc582ef3208bc4c4540d6f68326ee",
           "lastSyncedAt": "2026-11-15T16:26:21.342Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "problemName": "0130-surrounded-regions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "folderPath": "0130-surrounded-regions/",
+      "readmePath": "0130-surrounded-regions/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0130-surrounded-regions.cpp",
+          "path": "0130-surrounded-regions/0130-surrounded-regions.cpp",
+          "sha": "b2439a4d7e278d14493e9edf6a92b5de9803232e",
+          "lastSyncedAt": "2026-11-15T16:31:43.217Z"
         }
       ]
     },
