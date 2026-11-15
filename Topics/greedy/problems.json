@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-15T16:45:40.802Z",
+  "updatedAt": "2026-11-15T16:46:00.144Z",
   "problems": [
     {
       "frontendId": "678",
@@ -24,6 +24,26 @@
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
           "sha": "5018c6788eae7e560d71220ac875e1afc1107aa3",
           "lastSyncedAt": "2026-11-15T16:45:40.802Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "860",
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "problemName": "0860-lemonade-change",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+      "folderPath": "0860-lemonade-change/",
+      "readmePath": "0860-lemonade-change/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0860-lemonade-change.cpp",
+          "path": "0860-lemonade-change/0860-lemonade-change.cpp",
+          "sha": "e6c519c01591e60e752987a5d1263cc01d0964ea",
+          "lastSyncedAt": "2026-11-15T16:46:00.144Z"
         }
       ]
     },
