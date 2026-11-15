@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T16:27:43.266Z",
+  "updatedAt": "2026-11-15T16:30:26.004Z",
   "problems": [
+    {
+      "frontendId": "127",
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "problemName": "0127-word-ladder",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
+      "folderPath": "0127-word-ladder/",
+      "readmePath": "0127-word-ladder/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0127-word-ladder.cpp",
+          "path": "0127-word-ladder/0127-word-ladder.cpp",
+          "sha": "79df55f4be4c907f690980b8d379e4904d5a03f0",
+          "lastSyncedAt": "2026-11-15T16:30:26.004Z"
+        }
+      ]
+    },
     {
       "frontendId": "721",
       "title": "Accounts Merge",
