@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T16:57:36.759Z",
+  "updatedAt": "2026-11-15T16:57:42.230Z",
   "problems": [
     {
       "frontendId": "185",
@@ -44,6 +44,26 @@
           "path": "0585-investments-in-2016/0585-investments-in-2016.sql",
           "sha": "80324c9a5a487febbe63e97ebfa04fd7dda01fb0",
           "lastSyncedAt": "2026-11-15T16:57:36.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "602",
+      "title": "Friend Requests II: Who Has the Most Friends",
+      "slug": "friend-requests-ii-who-has-the-most-friends",
+      "problemName": "0602-friend-requests-ii-who-has-the-most-friends",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/",
+      "folderPath": "0602-friend-requests-ii-who-has-the-most-friends/",
+      "readmePath": "0602-friend-requests-ii-who-has-the-most-friends/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0602-friend-requests-ii-who-has-the-most-friends.sql",
+          "path": "0602-friend-requests-ii-who-has-the-most-friends/0602-friend-requests-ii-who-has-the-most-friends.sql",
+          "sha": "761d908df8bfd06fe8ec59d358e0b708e1276f84",
+          "lastSyncedAt": "2026-11-15T16:57:42.230Z"
         }
       ]
     },
