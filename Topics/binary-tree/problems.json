@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-15T16:40:48.844Z",
+  "updatedAt": "2026-11-15T16:41:12.458Z",
   "problems": [
     {
       "frontendId": "94",
@@ -44,6 +44,26 @@
           "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
           "sha": "70fe0fe77a338b4963a119faf4f16dc64d0b2b27",
           "lastSyncedAt": "2026-11-15T16:34:59.454Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "0101-symmetric-tree/",
+      "readmePath": "0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0101-symmetric-tree.cpp",
+          "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
+          "sha": "9b3d1361c47116330db73f27cb9b3d21ef701772",
+          "lastSyncedAt": "2026-11-15T16:41:12.458Z"
         }
       ]
     },
