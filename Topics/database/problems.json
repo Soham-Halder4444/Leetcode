@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T17:00:10.958Z",
+  "updatedAt": "2026-11-15T17:00:16.584Z",
   "problems": [
     {
       "frontendId": "176",
@@ -364,6 +364,26 @@
           "path": "1204-last-person-to-fit-in-the-bus/1204-last-person-to-fit-in-the-bus.sql",
           "sha": "679a962bcb7da5065a9322aff5b86668cbadb5c1",
           "lastSyncedAt": "2026-11-15T16:58:46.728Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1211",
+      "title": "Queries Quality and Percentage",
+      "slug": "queries-quality-and-percentage",
+      "problemName": "1211-queries-quality-and-percentage",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/queries-quality-and-percentage/",
+      "folderPath": "1211-queries-quality-and-percentage/",
+      "readmePath": "1211-queries-quality-and-percentage/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1211-queries-quality-and-percentage.sql",
+          "path": "1211-queries-quality-and-percentage/1211-queries-quality-and-percentage.sql",
+          "sha": "fdd17224ee152e67fe405220a32ded90d0a9ea64",
+          "lastSyncedAt": "2026-11-15T17:00:16.584Z"
         }
       ]
     },
