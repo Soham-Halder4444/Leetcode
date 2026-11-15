@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T17:01:40.982Z",
+  "updatedAt": "2026-11-15T17:01:47.140Z",
   "problems": [
     {
       "frontendId": "176",
@@ -184,6 +184,26 @@
           "path": "0585-investments-in-2016/0585-investments-in-2016.sql",
           "sha": "80324c9a5a487febbe63e97ebfa04fd7dda01fb0",
           "lastSyncedAt": "2026-11-15T16:57:36.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "595",
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "problemName": "0595-big-countries",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/big-countries/",
+      "folderPath": "0595-big-countries/",
+      "readmePath": "0595-big-countries/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0595-big-countries.sql",
+          "path": "0595-big-countries/0595-big-countries.sql",
+          "sha": "662300f8f5c41e745d4c5cc3c790356b180e98c6",
+          "lastSyncedAt": "2026-11-15T17:01:47.140Z"
         }
       ]
     },
