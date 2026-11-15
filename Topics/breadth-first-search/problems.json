@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T16:29:38.056Z",
+  "updatedAt": "2026-11-15T16:29:53.729Z",
   "problems": [
     {
       "frontendId": "721",
@@ -124,6 +124,26 @@
           "path": "1319-number-of-operations-to-make-network-connected/1319-number-of-operations-to-make-network-connected.cpp",
           "sha": "1603cdeb9080faab0ef85c8c01dd0ec5b9675d5d",
           "lastSyncedAt": "2026-11-15T16:28:02.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "1631-path-with-minimum-effort/",
+      "readmePath": "1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1631-path-with-minimum-effort.cpp",
+          "path": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.cpp",
+          "sha": "d7be6d05e6dd9c152862a63fdf5fa81492385e7b",
+          "lastSyncedAt": "2026-11-15T16:29:53.729Z"
         }
       ]
     }
