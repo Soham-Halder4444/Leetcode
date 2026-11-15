@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-11-15T16:25:59.416Z",
+  "problems": [
+    {
+      "frontendId": "827",
+      "title": "Making A Large Island",
+      "slug": "making-a-large-island",
+      "problemName": "0827-making-a-large-island",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/making-a-large-island/",
+      "folderPath": "0827-making-a-large-island/",
+      "readmePath": "0827-making-a-large-island/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0827-making-a-large-island.cpp",
+          "path": "0827-making-a-large-island/0827-making-a-large-island.cpp",
+          "sha": "fa97424bbe409596097b87edb8d989350ef19467",
+          "lastSyncedAt": "2026-11-15T16:25:59.416Z"
+        }
+      ]
+    }
+  ]
+}
