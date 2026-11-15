@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T16:49:27.443Z",
+  "updatedAt": "2026-11-15T16:49:45.765Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "0860-lemonade-change/0860-lemonade-change.cpp",
           "sha": "e6c519c01591e60e752987a5d1263cc01d0964ea",
           "lastSyncedAt": "2026-11-15T16:46:00.144Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "930",
+      "title": "Binary Subarrays With Sum",
+      "slug": "binary-subarrays-with-sum",
+      "problemName": "0930-binary-subarrays-with-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "folderPath": "0930-binary-subarrays-with-sum/",
+      "readmePath": "0930-binary-subarrays-with-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0930-binary-subarrays-with-sum.cpp",
+          "path": "0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.cpp",
+          "sha": "7d3f68ab265717e7fb4235314fbfa48f453a9700",
+          "lastSyncedAt": "2026-11-15T16:49:45.765Z"
         }
       ]
     },
