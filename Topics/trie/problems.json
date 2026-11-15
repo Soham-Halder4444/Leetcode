@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "trie",
+    "name": "Trie",
+    "tagId": "27"
+  },
+  "updatedAt": "2026-11-15T16:33:07.697Z",
+  "problems": [
+    {
+      "frontendId": "1707",
+      "title": "Maximum XOR With an Element From Array",
+      "slug": "maximum-xor-with-an-element-from-array",
+      "problemName": "1707-maximum-xor-with-an-element-from-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+      "folderPath": "1707-maximum-xor-with-an-element-from-array/",
+      "readmePath": "1707-maximum-xor-with-an-element-from-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1707-maximum-xor-with-an-element-from-array.cpp",
+          "path": "1707-maximum-xor-with-an-element-from-array/1707-maximum-xor-with-an-element-from-array.cpp",
+          "sha": "aff9a95ff28360330616b65d48adf65cd2ea4321",
+          "lastSyncedAt": "2026-11-15T16:33:07.697Z"
+        }
+      ]
+    }
+  ]
+}
