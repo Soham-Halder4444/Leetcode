@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-15T16:48:22.197Z",
+  "updatedAt": "2026-11-15T16:50:51.302Z",
   "problems": [
     {
       "frontendId": "23",
@@ -24,6 +24,26 @@
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp",
           "sha": "65b372ba38a0f3dd4fa5a69050ee192fd3fd4ade",
           "lastSyncedAt": "2026-11-15T16:48:22.197Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "0239-sliding-window-maximum/",
+      "readmePath": "0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0239-sliding-window-maximum.cpp",
+          "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.cpp",
+          "sha": "269179cee9e3ec450058da9321e6c59d059a6dda",
+          "lastSyncedAt": "2026-11-15T16:50:51.302Z"
         }
       ]
     },
