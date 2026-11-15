@@ -5,7 +5,7 @@
     "name": "Data Stream",
     "tagId": "61063"
   },
-  "updatedAt": "2026-11-15T16:47:25.244Z",
+  "updatedAt": "2026-11-15T16:50:34.003Z",
   "problems": [
     {
       "frontendId": "295",
@@ -44,6 +44,26 @@
           "path": "0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.cpp",
           "sha": "c0acd03b3f0b24d7da0295074cf18c8a89c6d4cf",
           "lastSyncedAt": "2026-11-15T16:47:25.244Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0901-online-stock-span.cpp",
+          "path": "0901-online-stock-span/0901-online-stock-span.cpp",
+          "sha": "ed6fefe94d26ac0943a2ad2b6b6c436a50f352d7",
+          "lastSyncedAt": "2026-11-15T16:50:34.003Z"
         }
       ]
     }
