@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT t1.id,CASE WHEN t1.new_student IS NOT NULL THEN t1.new_student ELSE t1.student END AS 'student' FROM (SELECT *,CASE WHEN t.id%2=1 THEN t.front ELSE t.back END AS 'new_student' FROM (SELECT *,LAG(student) OVER() AS 'back',LEAD(student) OVER() AS 'front' FROM Seat)t)t1
