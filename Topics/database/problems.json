@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T16:58:29.321Z",
+  "updatedAt": "2026-11-15T16:58:34.495Z",
   "problems": [
     {
       "frontendId": "176",
@@ -264,6 +264,26 @@
           "path": "1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql",
           "sha": "6909e6498d9cb2d37d3da9686e1b6bb489444acb",
           "lastSyncedAt": "2026-11-15T16:58:24.164Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1978",
+      "title": "Employees Whose Manager Left the Company",
+      "slug": "employees-whose-manager-left-the-company",
+      "problemName": "1978-employees-whose-manager-left-the-company",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employees-whose-manager-left-the-company/",
+      "folderPath": "1978-employees-whose-manager-left-the-company/",
+      "readmePath": "1978-employees-whose-manager-left-the-company/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1978-employees-whose-manager-left-the-company.sql",
+          "path": "1978-employees-whose-manager-left-the-company/1978-employees-whose-manager-left-the-company.sql",
+          "sha": "64a44acad98509fdd0be2bda4d83259d5884f69b",
+          "lastSyncedAt": "2026-11-15T16:58:34.495Z"
         }
       ]
     }
