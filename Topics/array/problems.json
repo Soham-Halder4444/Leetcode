@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T16:44:11.130Z",
+  "updatedAt": "2026-11-15T16:46:00.144Z",
   "problems": [
     {
       "frontendId": "1",
@@ -304,6 +304,26 @@
           "path": "0827-making-a-large-island/0827-making-a-large-island.cpp",
           "sha": "fa97424bbe409596097b87edb8d989350ef19467",
           "lastSyncedAt": "2026-11-15T16:25:59.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "860",
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "problemName": "0860-lemonade-change",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+      "folderPath": "0860-lemonade-change/",
+      "readmePath": "0860-lemonade-change/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0860-lemonade-change.cpp",
+          "path": "0860-lemonade-change/0860-lemonade-change.cpp",
+          "sha": "e6c519c01591e60e752987a5d1263cc01d0964ea",
+          "lastSyncedAt": "2026-11-15T16:46:00.144Z"
         }
       ]
     },
