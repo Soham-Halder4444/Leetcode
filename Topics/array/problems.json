@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T16:40:09.865Z",
+  "updatedAt": "2026-11-15T16:43:44.972Z",
   "problems": [
     {
       "frontendId": "27",
@@ -444,6 +444,26 @@
           "path": "3477-fruits-into-baskets-ii/3477-fruits-into-baskets-ii.cpp",
           "sha": "06927462d7cc2cc1d9f93d594143394b40bd7085",
           "lastSyncedAt": "2026-11-15T16:26:34.863Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4036",
+      "title": "Lexicographically Largest String After Pair Transformations",
+      "slug": "lexicographically-largest-string-after-pair-transformations",
+      "problemName": "4036-lexicographically-largest-string-after-pair-transformations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations/",
+      "folderPath": "4036-lexicographically-largest-string-after-pair-transformations/",
+      "readmePath": "4036-lexicographically-largest-string-after-pair-transformations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4036-lexicographically-largest-string-after-pair-transformations.cpp",
+          "path": "4036-lexicographically-largest-string-after-pair-transformations/4036-lexicographically-largest-string-after-pair-transformations.cpp",
+          "sha": "2300fe210e20bf5561740e07778e05fa56ff0d61",
+          "lastSyncedAt": "2026-11-15T16:43:44.972Z"
         }
       ]
     }
