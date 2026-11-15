@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-15T16:35:53.082Z",
+  "updatedAt": "2026-11-15T16:36:05.677Z",
   "problems": [
     {
       "frontendId": "98",
@@ -64,6 +64,26 @@
           "path": "0112-path-sum/0112-path-sum.cpp",
           "sha": "09355668019180d8539bc923bd53f3760c467769",
           "lastSyncedAt": "2026-11-15T16:34:05.444Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "problemName": "0144-binary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "folderPath": "0144-binary-tree-preorder-traversal/",
+      "readmePath": "0144-binary-tree-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0144-binary-tree-preorder-traversal.cpp",
+          "path": "0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.cpp",
+          "sha": "70d4bc5565259a5de21305525cf6319d0a7f2850",
+          "lastSyncedAt": "2026-11-15T16:36:05.677Z"
         }
       ]
     },
