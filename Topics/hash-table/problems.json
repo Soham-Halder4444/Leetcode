@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T16:48:03.802Z",
+  "updatedAt": "2026-11-15T16:48:45.643Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.cpp",
           "sha": "607c20ce328925f7ef6b40e74871afde3877e9e4",
           "lastSyncedAt": "2026-11-15T16:44:11.130Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "problemName": "0076-minimum-window-substring",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "folderPath": "0076-minimum-window-substring/",
+      "readmePath": "0076-minimum-window-substring/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0076-minimum-window-substring.cpp",
+          "path": "0076-minimum-window-substring/0076-minimum-window-substring.cpp",
+          "sha": "aa1e92474605e735902d8f036212ec1043da2e2f",
+          "lastSyncedAt": "2026-11-15T16:48:45.643Z"
         }
       ]
     },
