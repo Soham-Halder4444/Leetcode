@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-15T17:35:51.820Z",
+  "updatedAt": "2026-11-15T17:48:18.414Z",
   "problems": [
     {
       "frontendId": "5",
@@ -163,7 +163,7 @@
           "filename": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp",
           "path": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp",
           "sha": "4af0765cf6b74047005367a037ef2b480e611ffe",
-          "lastSyncedAt": "2026-11-15T17:33:01.966Z"
+          "lastSyncedAt": "2026-11-15T17:48:18.414Z"
         }
       ]
     },
