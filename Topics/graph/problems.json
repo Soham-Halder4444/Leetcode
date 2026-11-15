@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-15T16:30:39.207Z",
+  "updatedAt": "2026-11-15T16:30:50.939Z",
   "problems": [
     {
       "frontendId": "210",
@@ -64,6 +64,26 @@
           "path": "0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.cpp",
           "sha": "3009e94936c4259784003a9405e3e66ec77f6fb0",
           "lastSyncedAt": "2026-11-15T16:29:38.056Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "802",
+      "title": "Find Eventual Safe States",
+      "slug": "find-eventual-safe-states",
+      "problemName": "0802-find-eventual-safe-states",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
+      "folderPath": "0802-find-eventual-safe-states/",
+      "readmePath": "0802-find-eventual-safe-states/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0802-find-eventual-safe-states.cpp",
+          "path": "0802-find-eventual-safe-states/0802-find-eventual-safe-states.cpp",
+          "sha": "3c3842af43399d0ce59d21a26511384e2b254750",
+          "lastSyncedAt": "2026-11-15T16:30:50.939Z"
         }
       ]
     },
