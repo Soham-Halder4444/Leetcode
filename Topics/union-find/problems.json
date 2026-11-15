@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-15T16:25:59.416Z",
+  "updatedAt": "2026-11-15T16:27:15.206Z",
   "problems": [
     {
       "frontendId": "827",
@@ -24,6 +24,26 @@
           "path": "0827-making-a-large-island/0827-making-a-large-island.cpp",
           "sha": "fa97424bbe409596097b87edb8d989350ef19467",
           "lastSyncedAt": "2026-11-15T16:25:59.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "947",
+      "title": "Most Stones Removed with Same Row or Column",
+      "slug": "most-stones-removed-with-same-row-or-column",
+      "problemName": "0947-most-stones-removed-with-same-row-or-column",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+      "folderPath": "0947-most-stones-removed-with-same-row-or-column/",
+      "readmePath": "0947-most-stones-removed-with-same-row-or-column/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0947-most-stones-removed-with-same-row-or-column.cpp",
+          "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.cpp",
+          "sha": "20119008f8c6ce4e0ae6adebad5b9bda408a82fe",
+          "lastSyncedAt": "2026-11-15T16:27:15.206Z"
         }
       ]
     }
