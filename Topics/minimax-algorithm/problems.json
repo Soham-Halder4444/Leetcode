@@ -5,7 +5,7 @@
     "name": "Minimax",
     "tagId": "35"
   },
-  "updatedAt": "2026-11-15T16:28:14.501Z",
+  "updatedAt": "2026-11-15T17:15:49.179Z",
   "problems": [
     {
       "frontendId": "778",
@@ -23,7 +23,7 @@
           "filename": "0778-swim-in-rising-water.cpp",
           "path": "0778-swim-in-rising-water/0778-swim-in-rising-water.cpp",
           "sha": "0ed996c14899ed4b969891376b9f562aab0b9aca",
-          "lastSyncedAt": "2026-11-15T16:28:14.501Z"
+          "lastSyncedAt": "2026-11-15T17:15:49.179Z"
         }
       ]
     }
