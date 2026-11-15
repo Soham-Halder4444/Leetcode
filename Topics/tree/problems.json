@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-15T16:42:47.659Z",
+  "updatedAt": "2026-11-15T16:44:20.708Z",
   "problems": [
     {
       "frontendId": "94",
@@ -404,6 +404,26 @@
           "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.cpp",
           "sha": "be25454fc393a12a14b8419ddf25457fe300fedf",
           "lastSyncedAt": "2026-11-15T16:35:12.321Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "problemName": "0543-diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "folderPath": "0543-diameter-of-binary-tree/",
+      "readmePath": "0543-diameter-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0543-diameter-of-binary-tree.cpp",
+          "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.cpp",
+          "sha": "43ab7b0f457da7d9510994eb46dbe10e62822daa",
+          "lastSyncedAt": "2026-11-15T16:44:20.708Z"
         }
       ]
     },
