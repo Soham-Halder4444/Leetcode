@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T17:38:01.643Z",
+  "updatedAt": "2026-11-15T17:42:44.162Z",
   "problems": [
     {
       "frontendId": "1",
@@ -384,6 +384,26 @@
           "path": "0136-single-number/0136-single-number.cpp",
           "sha": "3a17f800bee7948ec501d24cc329dd73f4a730c3",
           "lastSyncedAt": "2026-11-15T16:54:53.702Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "0169-majority-element/0169-majority-element.cpp",
+          "sha": "39e5b29c82d41b549511859429610b1329363ca9",
+          "lastSyncedAt": "2026-11-15T17:42:44.162Z"
         }
       ]
     },
