@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T16:26:21.342Z",
+  "updatedAt": "2026-11-15T16:26:34.863Z",
   "problems": [
     {
       "frontendId": "88",
@@ -44,6 +44,26 @@
           "path": "0827-making-a-large-island/0827-making-a-large-island.cpp",
           "sha": "fa97424bbe409596097b87edb8d989350ef19467",
           "lastSyncedAt": "2026-11-15T16:25:59.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3477",
+      "title": "Fruits Into Baskets II",
+      "slug": "fruits-into-baskets-ii",
+      "problemName": "3477-fruits-into-baskets-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fruits-into-baskets-ii/",
+      "folderPath": "3477-fruits-into-baskets-ii/",
+      "readmePath": "3477-fruits-into-baskets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3477-fruits-into-baskets-ii.cpp",
+          "path": "3477-fruits-into-baskets-ii/3477-fruits-into-baskets-ii.cpp",
+          "sha": "06927462d7cc2cc1d9f93d594143394b40bd7085",
+          "lastSyncedAt": "2026-11-15T16:26:34.863Z"
         }
       ]
     }
