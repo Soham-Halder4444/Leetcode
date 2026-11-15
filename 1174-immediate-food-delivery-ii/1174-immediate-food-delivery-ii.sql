@@ -1,0 +1,3 @@
+# Write your MySQL query statement below
+SELECT ROUND(100.0*SUM(CASE WHEN t2.type='immediate' THEN 1 ELSE 0 END)/COUNT(*),2) AS 'immediate_percentage' FROM(SELECT * FROM(SELECT *,MIN(t.order_date) OVER(PARTITION BY t.customer_id)AS 'minimum'FROM(SELECT *,CASE WHEN order_date=customer_pref_delivery_date THEN 'immediate' ELSE 'scheduled' END AS 'type' FROM Delivery)t)t1
+WHERE t1.minimum=t1.order_date)t2
