@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T16:49:57.728Z",
+  "updatedAt": "2026-11-15T16:50:07.654Z",
   "problems": [
     {
       "frontendId": "1",
@@ -484,6 +484,26 @@
           "path": "0994-rotting-oranges/0994-rotting-oranges.cpp",
           "sha": "75ad522fb08b758e019d71f2d83ed34612d6c6b5",
           "lastSyncedAt": "2026-11-15T16:32:08.087Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "1004-max-consecutive-ones-iii/",
+      "readmePath": "1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1004-max-consecutive-ones-iii.cpp",
+          "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.cpp",
+          "sha": "669f04c33252f0ab089c60157f9ce3b8b660c9ee",
+          "lastSyncedAt": "2026-11-15T16:50:07.654Z"
         }
       ]
     },
