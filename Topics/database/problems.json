@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T16:57:30.483Z",
+  "updatedAt": "2026-11-15T16:57:36.759Z",
   "problems": [
     {
       "frontendId": "185",
@@ -24,6 +24,26 @@
           "path": "0185-department-top-three-salaries/0185-department-top-three-salaries.sql",
           "sha": "54a91878ccec3f4466a49c0970d1052831f9fc63",
           "lastSyncedAt": "2026-11-15T16:57:30.483Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "585",
+      "title": "Investments in 2016",
+      "slug": "investments-in-2016",
+      "problemName": "0585-investments-in-2016",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/investments-in-2016/",
+      "folderPath": "0585-investments-in-2016/",
+      "readmePath": "0585-investments-in-2016/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0585-investments-in-2016.sql",
+          "path": "0585-investments-in-2016/0585-investments-in-2016.sql",
+          "sha": "80324c9a5a487febbe63e97ebfa04fd7dda01fb0",
+          "lastSyncedAt": "2026-11-15T16:57:36.759Z"
         }
       ]
     },
