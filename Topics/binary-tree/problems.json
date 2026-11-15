@@ -5,8 +5,28 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-15T16:36:05.677Z",
+  "updatedAt": "2026-11-15T16:36:19.609Z",
   "problems": [
+    {
+      "frontendId": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "problemName": "0094-binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "folderPath": "0094-binary-tree-inorder-traversal/",
+      "readmePath": "0094-binary-tree-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0094-binary-tree-inorder-traversal.cpp",
+          "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.cpp",
+          "sha": "86050f703ff6cfadc02c9a38af508689a6f06834",
+          "lastSyncedAt": "2026-11-15T16:36:19.609Z"
+        }
+      ]
+    },
     {
       "frontendId": "98",
       "title": "Validate Binary Search Tree",
