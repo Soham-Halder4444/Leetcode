@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "topological-sort",
+    "name": "Topological Sort",
+    "tagId": "26"
+  },
+  "updatedAt": "2026-11-15T16:29:23.814Z",
+  "problems": [
+    {
+      "frontendId": "1976",
+      "title": "Number of Ways to Arrive at Destination",
+      "slug": "number-of-ways-to-arrive-at-destination",
+      "problemName": "1976-number-of-ways-to-arrive-at-destination",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+      "folderPath": "1976-number-of-ways-to-arrive-at-destination/",
+      "readmePath": "1976-number-of-ways-to-arrive-at-destination/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1976-number-of-ways-to-arrive-at-destination.cpp",
+          "path": "1976-number-of-ways-to-arrive-at-destination/1976-number-of-ways-to-arrive-at-destination.cpp",
+          "sha": "8ae26313ec57d21df8edb764986a38d013521f2a",
+          "lastSyncedAt": "2026-11-15T16:29:23.814Z"
+        }
+      ]
+    }
+  ]
+}
