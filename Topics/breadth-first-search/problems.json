@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T16:29:53.729Z",
+  "updatedAt": "2026-11-15T16:30:16.130Z",
   "problems": [
     {
       "frontendId": "721",
@@ -104,6 +104,26 @@
           "path": "0827-making-a-large-island/0827-making-a-large-island.cpp",
           "sha": "fa97424bbe409596097b87edb8d989350ef19467",
           "lastSyncedAt": "2026-11-15T16:25:59.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1091",
+      "title": "Shortest Path in Binary Matrix",
+      "slug": "shortest-path-in-binary-matrix",
+      "problemName": "1091-shortest-path-in-binary-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+      "folderPath": "1091-shortest-path-in-binary-matrix/",
+      "readmePath": "1091-shortest-path-in-binary-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1091-shortest-path-in-binary-matrix.cpp",
+          "path": "1091-shortest-path-in-binary-matrix/1091-shortest-path-in-binary-matrix.cpp",
+          "sha": "e2fdbebe6b2c3a4f078c1af4f332a3b9b592973b",
+          "lastSyncedAt": "2026-11-15T16:30:16.130Z"
         }
       ]
     },
