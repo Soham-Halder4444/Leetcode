@@ -5,8 +5,28 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T16:42:26.847Z",
+  "updatedAt": "2026-11-15T16:42:47.659Z",
   "problems": [
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0100-same-tree.cpp",
+          "path": "0100-same-tree/0100-same-tree.cpp",
+          "sha": "53ca1fb52448e2a213619e0a3cc0a2e34a09aa74",
+          "lastSyncedAt": "2026-11-15T16:42:47.659Z"
+        }
+      ]
+    },
     {
       "frontendId": "101",
       "title": "Symmetric Tree",
