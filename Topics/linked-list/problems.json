@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-15T16:43:23.256Z",
+  "updatedAt": "2026-11-15T16:48:22.197Z",
   "problems": [
     {
       "frontendId": "21",
@@ -24,6 +24,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
           "sha": "46ed2aee8cf1f28e62043da531328f6dc20e88f5",
           "lastSyncedAt": "2026-11-15T16:43:23.256Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "0023-merge-k-sorted-lists/",
+      "readmePath": "0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0023-merge-k-sorted-lists.cpp",
+          "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp",
+          "sha": "65b372ba38a0f3dd4fa5a69050ee192fd3fd4ade",
+          "lastSyncedAt": "2026-11-15T16:48:22.197Z"
         }
       ]
     },
