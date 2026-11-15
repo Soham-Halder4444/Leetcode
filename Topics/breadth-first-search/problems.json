@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T16:30:26.004Z",
+  "updatedAt": "2026-11-15T16:30:39.207Z",
   "problems": [
     {
       "frontendId": "127",
@@ -24,6 +24,26 @@
           "path": "0127-word-ladder/0127-word-ladder.cpp",
           "sha": "79df55f4be4c907f690980b8d379e4904d5a03f0",
           "lastSyncedAt": "2026-11-15T16:30:26.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "0210-course-schedule-ii/",
+      "readmePath": "0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0210-course-schedule-ii.cpp",
+          "path": "0210-course-schedule-ii/0210-course-schedule-ii.cpp",
+          "sha": "799e34184f7d470903d449b00302109f7f43c1f7",
+          "lastSyncedAt": "2026-11-15T16:30:39.207Z"
         }
       ]
     },
