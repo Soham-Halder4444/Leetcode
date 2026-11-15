@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T16:57:22.694Z",
+  "updatedAt": "2026-11-15T16:57:30.483Z",
   "problems": [
+    {
+      "frontendId": "185",
+      "title": "Department Top Three Salaries",
+      "slug": "department-top-three-salaries",
+      "problemName": "0185-department-top-three-salaries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/department-top-three-salaries/",
+      "folderPath": "0185-department-top-three-salaries/",
+      "readmePath": "0185-department-top-three-salaries/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0185-department-top-three-salaries.sql",
+          "path": "0185-department-top-three-salaries/0185-department-top-three-salaries.sql",
+          "sha": "54a91878ccec3f4466a49c0970d1052831f9fc63",
+          "lastSyncedAt": "2026-11-15T16:57:30.483Z"
+        }
+      ]
+    },
     {
       "frontendId": "1341",
       "title": "Movie Rating",
