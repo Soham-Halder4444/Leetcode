@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T17:05:54.881Z",
+  "updatedAt": "2026-11-15T17:06:06.967Z",
   "problems": [
     {
       "frontendId": "3",
@@ -324,6 +324,26 @@
           "path": "0402-remove-k-digits/0402-remove-k-digits.cpp",
           "sha": "796b4cf1b92af6d9133da20aac9159ced85f6b82",
           "lastSyncedAt": "2026-11-15T16:51:53.065Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0451-sort-characters-by-frequency.cpp",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
+          "sha": "cc5586d170dfc9d4f0cd84f88bc5c9d140c65b97",
+          "lastSyncedAt": "2026-11-15T17:06:06.967Z"
         }
       ]
     },
