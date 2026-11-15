@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-15T16:34:59.454Z",
+  "updatedAt": "2026-11-15T16:35:22.663Z",
   "problems": [
     {
       "frontendId": "98",
@@ -124,6 +124,26 @@
           "path": "0210-course-schedule-ii/0210-course-schedule-ii.cpp",
           "sha": "799e34184f7d470903d449b00302109f7f43c1f7",
           "lastSyncedAt": "2026-11-15T16:30:39.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "230",
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "problemName": "0230-kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      "folderPath": "0230-kth-smallest-element-in-a-bst/",
+      "readmePath": "0230-kth-smallest-element-in-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0230-kth-smallest-element-in-a-bst.cpp",
+          "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.cpp",
+          "sha": "bdc76bfd31cd3117b7bdcfa1547ce106d19ae710",
+          "lastSyncedAt": "2026-11-15T16:35:22.663Z"
         }
       ]
     },
