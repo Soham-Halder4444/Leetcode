@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T17:52:44.069Z",
+  "updatedAt": "2026-11-15T17:55:13.614Z",
   "problems": [
     {
       "frontendId": "1",
@@ -343,7 +343,7 @@
           "filename": "0108-convert-sorted-array-to-binary-search-tree.cpp",
           "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.cpp",
           "sha": "0c6b5b73011c6f3b82e637804d2f85820c641b36",
-          "lastSyncedAt": "2026-11-15T16:37:22.068Z"
+          "lastSyncedAt": "2026-11-15T17:55:13.614Z"
         }
       ]
     },
