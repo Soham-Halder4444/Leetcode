@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T16:43:44.972Z",
+  "updatedAt": "2026-11-15T16:44:02.075Z",
   "problems": [
     {
       "frontendId": "27",
@@ -444,6 +444,26 @@
           "path": "3477-fruits-into-baskets-ii/3477-fruits-into-baskets-ii.cpp",
           "sha": "06927462d7cc2cc1d9f93d594143394b40bd7085",
           "lastSyncedAt": "2026-11-15T16:26:34.863Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4034",
+      "title": "Minimum Bishop Moves to Reach Target",
+      "slug": "minimum-bishop-moves-to-reach-target",
+      "problemName": "4034-minimum-bishop-moves-to-reach-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/",
+      "folderPath": "4034-minimum-bishop-moves-to-reach-target/",
+      "readmePath": "4034-minimum-bishop-moves-to-reach-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4034-minimum-bishop-moves-to-reach-target.cpp",
+          "path": "4034-minimum-bishop-moves-to-reach-target/4034-minimum-bishop-moves-to-reach-target.cpp",
+          "sha": "c99bb4f1c2ba1fe2f5cee0c3842dfa99223a6c2d",
+          "lastSyncedAt": "2026-11-15T16:44:02.075Z"
         }
       ]
     },
