@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math",
+    "tagId": "8"
+  },
+  "updatedAt": "2026-11-15T16:38:34.692Z",
+  "problems": [
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0066-plus-one.cpp",
+          "path": "0066-plus-one/0066-plus-one.cpp",
+          "sha": "290c2e4c2bee322db1dfd0c400ecb9f01fa901d8",
+          "lastSyncedAt": "2026-11-15T16:38:34.692Z"
+        }
+      ]
+    }
+  ]
+}
