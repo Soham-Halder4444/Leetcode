@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-15T16:31:43.217Z",
+  "updatedAt": "2026-11-15T16:32:18.382Z",
   "problems": [
     {
       "frontendId": "130",
@@ -124,6 +124,26 @@
           "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.cpp",
           "sha": "20119008f8c6ce4e0ae6adebad5b9bda408a82fe",
           "lastSyncedAt": "2026-11-15T16:27:15.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1020",
+      "title": "Number of Enclaves",
+      "slug": "number-of-enclaves",
+      "problemName": "1020-number-of-enclaves",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-enclaves/",
+      "folderPath": "1020-number-of-enclaves/",
+      "readmePath": "1020-number-of-enclaves/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1020-number-of-enclaves.cpp",
+          "path": "1020-number-of-enclaves/1020-number-of-enclaves.cpp",
+          "sha": "9fc3aaa079a8a9018480ddd88118d19b94717976",
+          "lastSyncedAt": "2026-11-15T16:32:18.382Z"
         }
       ]
     },
