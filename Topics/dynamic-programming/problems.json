@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-15T16:31:57.312Z",
+  "updatedAt": "2026-11-15T16:45:40.802Z",
   "problems": [
     {
       "frontendId": "542",
@@ -24,6 +24,26 @@
           "path": "0542-01-matrix/0542-01-matrix.cpp",
           "sha": "c123cd653ecd01cc11e0672a3ca0eeddd98be627",
           "lastSyncedAt": "2026-11-15T16:31:57.312Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0678-valid-parenthesis-string.cpp",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
+          "sha": "5018c6788eae7e560d71220ac875e1afc1107aa3",
+          "lastSyncedAt": "2026-11-15T16:45:40.802Z"
         }
       ]
     },
