@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T16:56:18.315Z",
+  "updatedAt": "2026-11-15T17:02:26.035Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "0127-word-ladder/0127-word-ladder.cpp",
           "sha": "79df55f4be4c907f690980b8d379e4904d5a03f0",
           "lastSyncedAt": "2026-11-15T16:30:26.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "problemName": "0138-copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "folderPath": "0138-copy-list-with-random-pointer/",
+      "readmePath": "0138-copy-list-with-random-pointer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0138-copy-list-with-random-pointer.cpp",
+          "path": "0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.cpp",
+          "sha": "ce96c621b5e0e9221da643eaef4e4cb9cfac04ba",
+          "lastSyncedAt": "2026-11-15T17:02:26.035Z"
         }
       ]
     },
