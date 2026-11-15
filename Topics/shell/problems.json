@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "shell",
+    "name": "Shell",
+    "tagId": "61044"
+  },
+  "updatedAt": "2026-11-15T16:33:58.625Z",
+  "problems": [
+    {
+      "frontendId": "195",
+      "title": "Tenth Line",
+      "slug": "tenth-line",
+      "problemName": "0195-tenth-line",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/tenth-line/",
+      "folderPath": "0195-tenth-line/",
+      "readmePath": "0195-tenth-line/README.md",
+      "solutions": [
+        {
+          "language": "Bash",
+          "extension": ".sh",
+          "filename": "0195-tenth-line.sh",
+          "path": "0195-tenth-line/0195-tenth-line.sh",
+          "sha": "8a7396d52241ac8f8c38faa9a136540e1f7e16ec",
+          "lastSyncedAt": "2026-11-15T16:33:58.625Z"
+        }
+      ]
+    }
+  ]
+}
