@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-15T16:52:21.895Z",
+  "updatedAt": "2026-11-15T16:52:34.077Z",
   "problems": [
     {
       "frontendId": "84",
@@ -224,6 +224,26 @@
           "path": "0901-online-stock-span/0901-online-stock-span.cpp",
           "sha": "ed6fefe94d26ac0943a2ad2b6b6c436a50f352d7",
           "lastSyncedAt": "2026-11-15T16:50:34.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "907",
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "problemName": "0907-sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "folderPath": "0907-sum-of-subarray-minimums/",
+      "readmePath": "0907-sum-of-subarray-minimums/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0907-sum-of-subarray-minimums.cpp",
+          "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.cpp",
+          "sha": "7ac0be6f9769724c8664f5b1c31f21632ff056c3",
+          "lastSyncedAt": "2026-11-15T16:52:34.077Z"
         }
       ]
     },
