@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-15T17:18:40.632Z",
+  "updatedAt": "2026-11-15T17:19:11.312Z",
   "problems": [
     {
       "frontendId": "79",
@@ -723,7 +723,7 @@
           "filename": "1020-number-of-enclaves.cpp",
           "path": "1020-number-of-enclaves/1020-number-of-enclaves.cpp",
           "sha": "9fc3aaa079a8a9018480ddd88118d19b94717976",
-          "lastSyncedAt": "2026-11-15T16:32:18.382Z"
+          "lastSyncedAt": "2026-11-15T17:19:11.312Z"
         }
       ]
     },
