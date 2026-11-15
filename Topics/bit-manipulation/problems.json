@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T16:55:18.634Z",
+  "updatedAt": "2026-11-15T16:56:38.059Z",
   "problems": [
     {
       "frontendId": "29",
@@ -44,6 +44,26 @@
           "path": "0078-subsets/0078-subsets.cpp",
           "sha": "077e8905da03434a4575d63169e69db23cb7245b",
           "lastSyncedAt": "2026-11-15T16:54:40.894Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "problemName": "0090-subsets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+      "folderPath": "0090-subsets-ii/",
+      "readmePath": "0090-subsets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0090-subsets-ii.cpp",
+          "path": "0090-subsets-ii/0090-subsets-ii.cpp",
+          "sha": "57cf23c8bf0677c5de3f186bb1f7983c9711c7e5",
+          "lastSyncedAt": "2026-11-15T16:56:38.059Z"
         }
       ]
     },
