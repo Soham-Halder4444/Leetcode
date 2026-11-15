@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-15T17:57:11.628Z",
+  "updatedAt": "2026-11-15T17:57:24.267Z",
   "problems": [
     {
       "frontendId": "94",
@@ -443,7 +443,7 @@
           "filename": "0236-lowest-common-ancestor-of-a-binary-tree.cpp",
           "path": "0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.cpp",
           "sha": "c912b653d934dbb56f2c4ba7246733c0e59c5054",
-          "lastSyncedAt": "2026-11-15T16:40:48.844Z"
+          "lastSyncedAt": "2026-11-15T17:57:24.267Z"
         }
       ]
     },
