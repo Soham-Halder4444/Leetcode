@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T16:38:34.692Z",
+  "updatedAt": "2026-11-15T16:43:14.971Z",
   "problems": [
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "0009-palindrome-number/",
+      "readmePath": "0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0009-palindrome-number.cpp",
+          "path": "0009-palindrome-number/0009-palindrome-number.cpp",
+          "sha": "92b9a25d6c228aeb701634eb0ac6e42e3578dba9",
+          "lastSyncedAt": "2026-11-15T16:43:14.971Z"
+        }
+      ]
+    },
     {
       "frontendId": "66",
       "title": "Plus One",
