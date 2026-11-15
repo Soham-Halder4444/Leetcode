@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-15T16:56:38.059Z",
+  "updatedAt": "2026-11-15T16:56:50.679Z",
   "problems": [
     {
       "frontendId": "17",
@@ -44,6 +44,26 @@
           "path": "0037-sudoku-solver/0037-sudoku-solver.cpp",
           "sha": "18af42de9dee64d11d211dd6c5328db98b293096",
           "lastSyncedAt": "2026-11-15T16:55:28.212Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "40",
+      "title": "Combination Sum II",
+      "slug": "combination-sum-ii",
+      "problemName": "0040-combination-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
+      "folderPath": "0040-combination-sum-ii/",
+      "readmePath": "0040-combination-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0040-combination-sum-ii.cpp",
+          "path": "0040-combination-sum-ii/0040-combination-sum-ii.cpp",
+          "sha": "3543ca5f2bd9672d634ec9ba993c97b90520d441",
+          "lastSyncedAt": "2026-11-15T16:56:50.679Z"
         }
       ]
     },
