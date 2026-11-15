@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-15T16:48:22.197Z",
+  "updatedAt": "2026-11-15T17:03:11.819Z",
   "problems": [
     {
       "frontendId": "23",
@@ -84,6 +84,26 @@
           "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.cpp",
           "sha": "0c6b5b73011c6f3b82e637804d2f85820c641b36",
           "lastSyncedAt": "2026-11-15T16:37:22.068Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0148-sort-list.cpp",
+          "path": "0148-sort-list/0148-sort-list.cpp",
+          "sha": "b71bb8364fe77da064fc1eb4ddb11f5390cc3d86",
+          "lastSyncedAt": "2026-11-15T17:03:11.819Z"
         }
       ]
     },
