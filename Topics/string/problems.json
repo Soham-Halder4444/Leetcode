@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T16:36:54.725Z",
+  "updatedAt": "2026-11-15T16:39:14.939Z",
   "problems": [
+    {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "problemName": "0058-length-of-last-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+      "folderPath": "0058-length-of-last-word/",
+      "readmePath": "0058-length-of-last-word/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0058-length-of-last-word.cpp",
+          "path": "0058-length-of-last-word/0058-length-of-last-word.cpp",
+          "sha": "1f1d7de46ad1a8ee011f2d8be200dba9239c4b5f",
+          "lastSyncedAt": "2026-11-15T16:39:14.939Z"
+        }
+      ]
+    },
     {
       "frontendId": "127",
       "title": "Word Ladder",
