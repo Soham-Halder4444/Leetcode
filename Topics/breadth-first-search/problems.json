@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T17:49:46.855Z",
+  "updatedAt": "2026-11-15T17:50:03.675Z",
   "problems": [
     {
       "frontendId": "100",
@@ -443,7 +443,7 @@
           "filename": "0785-is-graph-bipartite.cpp",
           "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.cpp",
           "sha": "ffd83c6c52a5f3cbdbf587bfc88f9fd69b79d342",
-          "lastSyncedAt": "2026-11-15T17:35:03.063Z"
+          "lastSyncedAt": "2026-11-15T17:50:03.675Z"
         }
       ]
     },
