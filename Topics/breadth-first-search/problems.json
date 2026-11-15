@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T16:38:50.351Z",
+  "updatedAt": "2026-11-15T16:40:25.056Z",
   "problems": [
     {
       "frontendId": "111",
@@ -204,6 +204,26 @@
           "path": "0547-number-of-provinces/0547-number-of-provinces.cpp",
           "sha": "a5e0cf9155d12e55f3048b638e960da4f012c938",
           "lastSyncedAt": "2026-11-15T16:32:57.022Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "662",
+      "title": "Maximum Width of Binary Tree",
+      "slug": "maximum-width-of-binary-tree",
+      "problemName": "0662-maximum-width-of-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+      "folderPath": "0662-maximum-width-of-binary-tree/",
+      "readmePath": "0662-maximum-width-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0662-maximum-width-of-binary-tree.cpp",
+          "path": "0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree.cpp",
+          "sha": "e5f813feb85b4ea56e92c9a98b193a9d996beaf0",
+          "lastSyncedAt": "2026-11-15T16:40:25.056Z"
         }
       ]
     },
