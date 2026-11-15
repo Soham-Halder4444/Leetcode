@@ -5,7 +5,7 @@
     "name": "Topological Sort",
     "tagId": "26"
   },
-  "updatedAt": "2026-11-15T17:18:29.755Z",
+  "updatedAt": "2026-11-15T17:33:16.894Z",
   "problems": [
     {
       "frontendId": "207",
@@ -83,7 +83,7 @@
           "filename": "1976-number-of-ways-to-arrive-at-destination.cpp",
           "path": "1976-number-of-ways-to-arrive-at-destination/1976-number-of-ways-to-arrive-at-destination.cpp",
           "sha": "8ae26313ec57d21df8edb764986a38d013521f2a",
-          "lastSyncedAt": "2026-11-15T17:16:40.678Z"
+          "lastSyncedAt": "2026-11-15T17:33:16.894Z"
         }
       ]
     }
