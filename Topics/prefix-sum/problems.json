@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-15T16:49:27.443Z",
+  "updatedAt": "2026-11-15T16:49:45.765Z",
   "problems": [
+    {
+      "frontendId": "930",
+      "title": "Binary Subarrays With Sum",
+      "slug": "binary-subarrays-with-sum",
+      "problemName": "0930-binary-subarrays-with-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "folderPath": "0930-binary-subarrays-with-sum/",
+      "readmePath": "0930-binary-subarrays-with-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0930-binary-subarrays-with-sum.cpp",
+          "path": "0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.cpp",
+          "sha": "7d3f68ab265717e7fb4235314fbfa48f453a9700",
+          "lastSyncedAt": "2026-11-15T16:49:45.765Z"
+        }
+      ]
+    },
     {
       "frontendId": "1248",
       "title": "Count Number of Nice Subarrays",
