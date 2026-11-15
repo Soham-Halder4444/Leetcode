@@ -5,7 +5,7 @@
     "name": "Dijkstra's Algorithm",
     "tagId": "71093"
   },
-  "updatedAt": "2026-11-15T16:29:23.814Z",
+  "updatedAt": "2026-11-15T16:29:53.729Z",
   "problems": [
     {
       "frontendId": "743",
@@ -64,6 +64,26 @@
           "path": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp",
           "sha": "4af0765cf6b74047005367a037ef2b480e611ffe",
           "lastSyncedAt": "2026-11-15T16:29:04.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "1631-path-with-minimum-effort/",
+      "readmePath": "1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1631-path-with-minimum-effort.cpp",
+          "path": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.cpp",
+          "sha": "d7be6d05e6dd9c152862a63fdf5fa81492385e7b",
+          "lastSyncedAt": "2026-11-15T16:29:53.729Z"
         }
       ]
     },
