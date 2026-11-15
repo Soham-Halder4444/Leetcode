@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-15T17:35:35.601Z",
+  "updatedAt": "2026-11-15T17:36:18.050Z",
   "problems": [
     {
       "frontendId": "130",
@@ -183,7 +183,7 @@
           "filename": "1020-number-of-enclaves.cpp",
           "path": "1020-number-of-enclaves/1020-number-of-enclaves.cpp",
           "sha": "9fc3aaa079a8a9018480ddd88118d19b94717976",
-          "lastSyncedAt": "2026-11-15T17:19:11.312Z"
+          "lastSyncedAt": "2026-11-15T17:36:18.050Z"
         }
       ]
     },
