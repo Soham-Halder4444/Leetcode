@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T16:30:26.004Z",
+  "updatedAt": "2026-11-15T16:33:20.695Z",
   "problems": [
     {
       "frontendId": "127",
@@ -24,6 +24,26 @@
           "path": "0127-word-ladder/0127-word-ladder.cpp",
           "sha": "79df55f4be4c907f690980b8d379e4904d5a03f0",
           "lastSyncedAt": "2026-11-15T16:30:26.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "208",
+      "title": "Implement Trie (Prefix Tree)",
+      "slug": "implement-trie-prefix-tree",
+      "problemName": "0208-implement-trie-prefix-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+      "folderPath": "0208-implement-trie-prefix-tree/",
+      "readmePath": "0208-implement-trie-prefix-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0208-implement-trie-prefix-tree.cpp",
+          "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp",
+          "sha": "b33dff58d80fe6475b9d488261cc65a84d4aad82",
+          "lastSyncedAt": "2026-11-15T16:33:20.695Z"
         }
       ]
     },
