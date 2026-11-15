@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-15T17:52:32.252Z",
+  "updatedAt": "2026-11-15T17:53:00.321Z",
   "problems": [
     {
       "frontendId": "79",
@@ -383,7 +383,7 @@
           "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
           "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
           "sha": "56d161a44b78c8882b04618b65086275c56abf26",
-          "lastSyncedAt": "2026-11-15T17:38:21.375Z"
+          "lastSyncedAt": "2026-11-15T17:53:00.321Z"
         }
       ]
     },
