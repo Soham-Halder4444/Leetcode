@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T16:59:48.567Z",
+  "updatedAt": "2026-11-15T16:59:54.611Z",
   "problems": [
     {
       "frontendId": "176",
@@ -544,6 +544,26 @@
           "path": "1978-employees-whose-manager-left-the-company/1978-employees-whose-manager-left-the-company.sql",
           "sha": "64a44acad98509fdd0be2bda4d83259d5884f69b",
           "lastSyncedAt": "2026-11-15T16:58:34.495Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2356",
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "slug": "number-of-unique-subjects-taught-by-each-teacher",
+      "problemName": "2356-number-of-unique-subjects-taught-by-each-teacher",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/",
+      "folderPath": "2356-number-of-unique-subjects-taught-by-each-teacher/",
+      "readmePath": "2356-number-of-unique-subjects-taught-by-each-teacher/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "2356-number-of-unique-subjects-taught-by-each-teacher.sql",
+          "path": "2356-number-of-unique-subjects-taught-by-each-teacher/2356-number-of-unique-subjects-taught-by-each-teacher.sql",
+          "sha": "e9390c7a3c71fca1c4cd890d8af7c3251e6dc120",
+          "lastSyncedAt": "2026-11-15T16:59:54.611Z"
         }
       ]
     }
