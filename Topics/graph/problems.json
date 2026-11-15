@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-15T17:17:44.973Z",
+  "updatedAt": "2026-11-15T17:17:55.976Z",
   "problems": [
     {
       "frontendId": "207",
@@ -143,7 +143,7 @@
           "filename": "0802-find-eventual-safe-states.cpp",
           "path": "0802-find-eventual-safe-states/0802-find-eventual-safe-states.cpp",
           "sha": "3c3842af43399d0ce59d21a26511384e2b254750",
-          "lastSyncedAt": "2026-11-15T16:30:50.939Z"
+          "lastSyncedAt": "2026-11-15T17:17:55.976Z"
         }
       ]
     },
