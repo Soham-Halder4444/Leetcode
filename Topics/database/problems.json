@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T17:00:38.302Z",
+  "updatedAt": "2026-11-15T17:00:44.027Z",
   "problems": [
     {
       "frontendId": "176",
@@ -684,6 +684,26 @@
           "path": "1907-count-salary-categories/1907-count-salary-categories.sql",
           "sha": "95d9c5762698a8e5f56d350d77648506cc942c48",
           "lastSyncedAt": "2026-11-15T16:58:40.568Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1934",
+      "title": "Confirmation Rate",
+      "slug": "confirmation-rate",
+      "problemName": "1934-confirmation-rate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/confirmation-rate/",
+      "folderPath": "1934-confirmation-rate/",
+      "readmePath": "1934-confirmation-rate/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1934-confirmation-rate.sql",
+          "path": "1934-confirmation-rate/1934-confirmation-rate.sql",
+          "sha": "f82c02573ad8607288287da320570dd420fa28e0",
+          "lastSyncedAt": "2026-11-15T17:00:44.027Z"
         }
       ]
     },
