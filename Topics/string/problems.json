@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T17:05:06.293Z",
+  "updatedAt": "2026-11-15T17:05:20.940Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp",
           "sha": "c7a667e00efb0028441f4b7e2e94660ed3c8a405",
           "lastSyncedAt": "2026-11-15T16:50:22.693Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "0005-longest-palindromic-substring/",
+      "readmePath": "0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0005-longest-palindromic-substring.cpp",
+          "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
+          "sha": "d697e88c8fa9bd321fd8d51905e5ec74c108d102",
+          "lastSyncedAt": "2026-11-15T17:05:20.940Z"
         }
       ]
     },
