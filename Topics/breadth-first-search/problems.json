@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T16:36:54.725Z",
+  "updatedAt": "2026-11-15T16:38:50.351Z",
   "problems": [
     {
       "frontendId": "111",
@@ -364,6 +364,26 @@
           "path": "0827-making-a-large-island/0827-making-a-large-island.cpp",
           "sha": "fa97424bbe409596097b87edb8d989350ef19467",
           "lastSyncedAt": "2026-11-15T16:25:59.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "863",
+      "title": "All Nodes Distance K in Binary Tree",
+      "slug": "all-nodes-distance-k-in-binary-tree",
+      "problemName": "0863-all-nodes-distance-k-in-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+      "folderPath": "0863-all-nodes-distance-k-in-binary-tree/",
+      "readmePath": "0863-all-nodes-distance-k-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0863-all-nodes-distance-k-in-binary-tree.cpp",
+          "path": "0863-all-nodes-distance-k-in-binary-tree/0863-all-nodes-distance-k-in-binary-tree.cpp",
+          "sha": "d3e4093911335c0e5240d067a2c7b862eec2ee28",
+          "lastSyncedAt": "2026-11-15T16:38:50.351Z"
         }
       ]
     },
