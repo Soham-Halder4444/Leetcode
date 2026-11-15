@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-15T16:31:57.312Z",
+  "updatedAt": "2026-11-15T16:32:08.087Z",
   "problems": [
     {
       "frontendId": "130",
@@ -84,6 +84,26 @@
           "path": "0827-making-a-large-island/0827-making-a-large-island.cpp",
           "sha": "fa97424bbe409596097b87edb8d989350ef19467",
           "lastSyncedAt": "2026-11-15T16:25:59.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "0994-rotting-oranges/",
+      "readmePath": "0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0994-rotting-oranges.cpp",
+          "path": "0994-rotting-oranges/0994-rotting-oranges.cpp",
+          "sha": "75ad522fb08b758e019d71f2d83ed34612d6c6b5",
+          "lastSyncedAt": "2026-11-15T16:32:08.087Z"
         }
       ]
     },
