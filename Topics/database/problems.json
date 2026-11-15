@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T16:57:42.230Z",
+  "updatedAt": "2026-11-15T16:57:47.699Z",
   "problems": [
     {
       "frontendId": "185",
@@ -64,6 +64,26 @@
           "path": "0602-friend-requests-ii-who-has-the-most-friends/0602-friend-requests-ii-who-has-the-most-friends.sql",
           "sha": "761d908df8bfd06fe8ec59d358e0b708e1276f84",
           "lastSyncedAt": "2026-11-15T16:57:42.230Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1321",
+      "title": "Restaurant Growth",
+      "slug": "restaurant-growth",
+      "problemName": "1321-restaurant-growth",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/restaurant-growth/",
+      "folderPath": "1321-restaurant-growth/",
+      "readmePath": "1321-restaurant-growth/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1321-restaurant-growth.sql",
+          "path": "1321-restaurant-growth/1321-restaurant-growth.sql",
+          "sha": "be8cd5717ee37a5cfedf5066a117daaadc3eab21",
+          "lastSyncedAt": "2026-11-15T16:57:47.699Z"
         }
       ]
     },
