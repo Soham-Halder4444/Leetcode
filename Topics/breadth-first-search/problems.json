@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T17:46:09.609Z",
+  "updatedAt": "2026-11-15T17:47:12.308Z",
   "problems": [
     {
       "frontendId": "100",
@@ -363,7 +363,7 @@
           "filename": "0721-accounts-merge.cpp",
           "path": "0721-accounts-merge/0721-accounts-merge.cpp",
           "sha": "8ba6f627efdbbcb0925ccd8ea748708081c2862f",
-          "lastSyncedAt": "2026-11-15T17:31:48.940Z"
+          "lastSyncedAt": "2026-11-15T17:47:12.308Z"
         }
       ]
     },
