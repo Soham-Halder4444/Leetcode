@@ -5,8 +5,28 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-15T16:28:02.512Z",
+  "updatedAt": "2026-11-15T16:28:46.286Z",
   "problems": [
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "0743-network-delay-time/",
+      "readmePath": "0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0743-network-delay-time.cpp",
+          "path": "0743-network-delay-time/0743-network-delay-time.cpp",
+          "sha": "62d31f117c44db22e36dc3c1cbcd483447323ef2",
+          "lastSyncedAt": "2026-11-15T16:28:46.286Z"
+        }
+      ]
+    },
     {
       "frontendId": "947",
       "title": "Most Stones Removed with Same Row or Column",
