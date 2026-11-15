@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T16:58:40.568Z",
+  "updatedAt": "2026-11-15T16:58:46.728Z",
   "problems": [
     {
       "frontendId": "176",
@@ -124,6 +124,26 @@
           "path": "0626-exchange-seats/0626-exchange-seats.sql",
           "sha": "f5f978ab9a51bda82a3dab3bf54352f6a587532f",
           "lastSyncedAt": "2026-11-15T16:58:29.321Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1204",
+      "title": "Last Person to Fit in the Bus",
+      "slug": "last-person-to-fit-in-the-bus",
+      "problemName": "1204-last-person-to-fit-in-the-bus",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/last-person-to-fit-in-the-bus/",
+      "folderPath": "1204-last-person-to-fit-in-the-bus/",
+      "readmePath": "1204-last-person-to-fit-in-the-bus/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1204-last-person-to-fit-in-the-bus.sql",
+          "path": "1204-last-person-to-fit-in-the-bus/1204-last-person-to-fit-in-the-bus.sql",
+          "sha": "679a962bcb7da5065a9322aff5b86668cbadb5c1",
+          "lastSyncedAt": "2026-11-15T16:58:46.728Z"
         }
       ]
     },
