@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T16:59:31.348Z",
+  "updatedAt": "2026-11-15T16:59:36.968Z",
   "problems": [
     {
       "frontendId": "176",
@@ -104,6 +104,26 @@
           "path": "0585-investments-in-2016/0585-investments-in-2016.sql",
           "sha": "80324c9a5a487febbe63e97ebfa04fd7dda01fb0",
           "lastSyncedAt": "2026-11-15T16:57:36.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "596",
+      "title": "Classes With at Least 5 Students",
+      "slug": "classes-with-at-least-5-students",
+      "problemName": "0596-classes-with-at-least-5-students",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/classes-with-at-least-5-students/",
+      "folderPath": "0596-classes-with-at-least-5-students/",
+      "readmePath": "0596-classes-with-at-least-5-students/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0596-classes-with-at-least-5-students.sql",
+          "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.sql",
+          "sha": "be80421056e6e57d7afb9167b6fec0c9554a74fc",
+          "lastSyncedAt": "2026-11-15T16:59:36.968Z"
         }
       ]
     },
