@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T16:48:59.679Z",
+  "updatedAt": "2026-11-15T16:49:27.443Z",
   "problems": [
     {
       "frontendId": "1",
@@ -504,6 +504,26 @@
           "path": "1091-shortest-path-in-binary-matrix/1091-shortest-path-in-binary-matrix.cpp",
           "sha": "e2fdbebe6b2c3a4f078c1af4f332a3b9b592973b",
           "lastSyncedAt": "2026-11-15T16:30:16.130Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "problemName": "1248-count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "folderPath": "1248-count-number-of-nice-subarrays/",
+      "readmePath": "1248-count-number-of-nice-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1248-count-number-of-nice-subarrays.cpp",
+          "path": "1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.cpp",
+          "sha": "fa526e4c57fe6365a5d1b48237ab01d98b92f5d3",
+          "lastSyncedAt": "2026-11-15T16:49:27.443Z"
         }
       ]
     },
