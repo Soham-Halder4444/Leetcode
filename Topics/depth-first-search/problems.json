@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-15T16:41:59.834Z",
+  "updatedAt": "2026-11-15T16:42:47.659Z",
   "problems": [
     {
       "frontendId": "94",
@@ -44,6 +44,26 @@
           "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
           "sha": "70fe0fe77a338b4963a119faf4f16dc64d0b2b27",
           "lastSyncedAt": "2026-11-15T16:34:59.454Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0100-same-tree.cpp",
+          "path": "0100-same-tree/0100-same-tree.cpp",
+          "sha": "53ca1fb52448e2a213619e0a3cc0a2e34a09aa74",
+          "lastSyncedAt": "2026-11-15T16:42:47.659Z"
         }
       ]
     },
