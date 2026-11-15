@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "graph-coloring",
+    "name": "Graph Coloring",
+    "tagId": "69145"
+  },
+  "updatedAt": "2026-11-15T16:31:11.502Z",
+  "problems": [
+    {
+      "frontendId": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "problemName": "0785-is-graph-bipartite",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+      "folderPath": "0785-is-graph-bipartite/",
+      "readmePath": "0785-is-graph-bipartite/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0785-is-graph-bipartite.cpp",
+          "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.cpp",
+          "sha": "ffd83c6c52a5f3cbdbf587bfc88f9fd69b79d342",
+          "lastSyncedAt": "2026-11-15T16:31:11.502Z"
+        }
+      ]
+    }
+  ]
+}
