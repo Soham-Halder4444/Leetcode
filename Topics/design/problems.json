@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-15T16:50:34.003Z",
+  "updatedAt": "2026-11-15T16:53:15.322Z",
   "problems": [
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "0155-min-stack/",
+      "readmePath": "0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0155-min-stack.cpp",
+          "path": "0155-min-stack/0155-min-stack.cpp",
+          "sha": "b9384cf8dacefe893609b5a09f09b8f4b9d8d759",
+          "lastSyncedAt": "2026-11-15T16:53:15.322Z"
+        }
+      ]
+    },
     {
       "frontendId": "173",
       "title": "Binary Search Tree Iterator",
