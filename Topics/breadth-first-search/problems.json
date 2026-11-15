@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T17:49:18.547Z",
+  "updatedAt": "2026-11-15T17:49:26.054Z",
   "problems": [
     {
       "frontendId": "100",
@@ -163,7 +163,7 @@
           "filename": "0127-word-ladder.cpp",
           "path": "0127-word-ladder/0127-word-ladder.cpp",
           "sha": "79df55f4be4c907f690980b8d379e4904d5a03f0",
-          "lastSyncedAt": "2026-11-15T17:34:19.415Z"
+          "lastSyncedAt": "2026-11-15T17:49:26.054Z"
         }
       ]
     },
