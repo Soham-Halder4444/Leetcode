@@ -5,8 +5,28 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-11-15T16:53:42.738Z",
+  "updatedAt": "2026-11-15T16:53:56.353Z",
   "problems": [
+    {
+      "frontendId": "225",
+      "title": "Implement Stack using Queues",
+      "slug": "implement-stack-using-queues",
+      "problemName": "0225-implement-stack-using-queues",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
+      "folderPath": "0225-implement-stack-using-queues/",
+      "readmePath": "0225-implement-stack-using-queues/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0225-implement-stack-using-queues.cpp",
+          "path": "0225-implement-stack-using-queues/0225-implement-stack-using-queues.cpp",
+          "sha": "5a1e0b5881791b821d51616473a6c67527dc2eb1",
+          "lastSyncedAt": "2026-11-15T16:53:56.353Z"
+        }
+      ]
+    },
     {
       "frontendId": "232",
       "title": "Implement Queue using Stacks",
