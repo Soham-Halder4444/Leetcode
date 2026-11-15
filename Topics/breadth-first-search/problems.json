@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-15T16:31:43.217Z",
+  "updatedAt": "2026-11-15T16:31:57.312Z",
   "problems": [
     {
       "frontendId": "127",
@@ -84,6 +84,26 @@
           "path": "0210-course-schedule-ii/0210-course-schedule-ii.cpp",
           "sha": "799e34184f7d470903d449b00302109f7f43c1f7",
           "lastSyncedAt": "2026-11-15T16:30:39.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "problemName": "0542-01-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+      "folderPath": "0542-01-matrix/",
+      "readmePath": "0542-01-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0542-01-matrix.cpp",
+          "path": "0542-01-matrix/0542-01-matrix.cpp",
+          "sha": "c123cd653ecd01cc11e0672a3ca0eeddd98be627",
+          "lastSyncedAt": "2026-11-15T16:31:57.312Z"
         }
       ]
     },
