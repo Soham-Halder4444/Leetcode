@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-15T16:43:34.111Z",
+  "updatedAt": "2026-11-15T16:46:32.821Z",
   "problems": [
     {
       "frontendId": "105",
@@ -84,6 +84,26 @@
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.cpp",
           "sha": "6fa4038e8be6ddd8cc72c49db61137647ff5a0c0",
           "lastSyncedAt": "2026-11-15T16:43:34.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0347-top-k-frequent-elements.cpp",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
+          "sha": "0aa367ef87cd108808f3da359a40c64ac0b938b5",
+          "lastSyncedAt": "2026-11-15T16:46:32.821Z"
         }
       ]
     }
