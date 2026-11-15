@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-15T16:30:50.939Z",
+  "updatedAt": "2026-11-15T16:31:11.502Z",
   "problems": [
     {
       "frontendId": "210",
@@ -44,6 +44,26 @@
           "path": "0743-network-delay-time/0743-network-delay-time.cpp",
           "sha": "62d31f117c44db22e36dc3c1cbcd483447323ef2",
           "lastSyncedAt": "2026-11-15T16:28:46.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "problemName": "0785-is-graph-bipartite",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+      "folderPath": "0785-is-graph-bipartite/",
+      "readmePath": "0785-is-graph-bipartite/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0785-is-graph-bipartite.cpp",
+          "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.cpp",
+          "sha": "ffd83c6c52a5f3cbdbf587bfc88f9fd69b79d342",
+          "lastSyncedAt": "2026-11-15T16:31:11.502Z"
         }
       ]
     },
