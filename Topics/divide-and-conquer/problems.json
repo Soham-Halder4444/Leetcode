@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "divide-and-conquer",
+    "name": "Divide and Conquer",
+    "tagId": "12"
+  },
+  "updatedAt": "2026-11-15T16:37:22.068Z",
+  "problems": [
+    {
+      "frontendId": "108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "problemName": "0108-convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+      "folderPath": "0108-convert-sorted-array-to-binary-search-tree/",
+      "readmePath": "0108-convert-sorted-array-to-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0108-convert-sorted-array-to-binary-search-tree.cpp",
+          "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.cpp",
+          "sha": "0c6b5b73011c6f3b82e637804d2f85820c641b36",
+          "lastSyncedAt": "2026-11-15T16:37:22.068Z"
+        }
+      ]
+    }
+  ]
+}
