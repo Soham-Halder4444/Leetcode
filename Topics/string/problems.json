@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T16:39:36.219Z",
+  "updatedAt": "2026-11-15T16:43:05.704Z",
   "problems": [
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "0006-zigzag-conversion/",
+      "readmePath": "0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0006-zigzag-conversion.cpp",
+          "path": "0006-zigzag-conversion/0006-zigzag-conversion.cpp",
+          "sha": "6c9d659c184a374d8c8a2f4cdd25e38dc7c7591d",
+          "lastSyncedAt": "2026-11-15T16:43:05.704Z"
+        }
+      ]
+    },
     {
       "frontendId": "28",
       "title": "Find the Index of the First Occurrence in a String",
