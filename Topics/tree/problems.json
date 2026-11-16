@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-16T18:20:20.853Z",
+  "updatedAt": "2026-11-16T18:20:29.513Z",
   "problems": [
     {
       "frontendId": "94",
@@ -283,7 +283,7 @@
           "filename": "0114-flatten-binary-tree-to-linked-list.cpp",
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.cpp",
           "sha": "5efc0720010b5052fe162f0b076c693ba7ee3388",
-          "lastSyncedAt": "2026-11-16T17:46:25.437Z"
+          "lastSyncedAt": "2026-11-16T18:20:29.513Z"
         }
       ]
     },
