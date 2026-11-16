@@ -5,7 +5,7 @@
     "name": "Quicksort",
     "tagId": "68362"
   },
-  "updatedAt": "2026-11-15T16:46:09.471Z",
+  "updatedAt": "2026-11-16T17:51:06.914Z",
   "problems": [
     {
       "frontendId": "455",
@@ -23,7 +23,7 @@
           "filename": "0455-assign-cookies.cpp",
           "path": "0455-assign-cookies/0455-assign-cookies.cpp",
           "sha": "90dabd155a0946258edbc0eef7965c83841ffbed",
-          "lastSyncedAt": "2026-11-15T16:46:09.471Z"
+          "lastSyncedAt": "2026-11-16T17:51:06.914Z"
         }
       ]
     }
