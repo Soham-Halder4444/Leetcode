@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-16T18:05:30.372Z",
+  "updatedAt": "2026-11-16T18:05:42.130Z",
   "problems": [
     {
       "frontendId": "4",
@@ -84,6 +84,26 @@
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.cpp",
           "sha": "76d5d098c4040ff36c974e08a835ae1958127897",
           "lastSyncedAt": "2026-11-16T18:04:17.029Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0162-find-peak-element.cpp",
+          "path": "0162-find-peak-element/0162-find-peak-element.cpp",
+          "sha": "4aa140bb2fdd9ca13f9ec5992f9b76f4433971d5",
+          "lastSyncedAt": "2026-11-16T18:05:42.130Z"
         }
       ]
     },
