@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-16T17:56:39.201Z",
+  "updatedAt": "2026-11-16T17:56:43.748Z",
   "problems": [
     {
       "frontendId": "29",
@@ -183,7 +183,7 @@
           "filename": "2220-minimum-bit-flips-to-convert-number.cpp",
           "path": "2220-minimum-bit-flips-to-convert-number/2220-minimum-bit-flips-to-convert-number.cpp",
           "sha": "0b65b902248438ddc30e76be5670b2c40d656812",
-          "lastSyncedAt": "2026-11-15T16:55:03.241Z"
+          "lastSyncedAt": "2026-11-16T17:56:43.748Z"
         }
       ]
     },
