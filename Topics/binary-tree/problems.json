@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-16T18:21:14.466Z",
+  "updatedAt": "2026-11-16T18:21:27.165Z",
   "problems": [
     {
       "frontendId": "94",
@@ -163,7 +163,7 @@
           "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
           "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
           "sha": "dd1b9f3d0fd836e049d3cf6f6afe9e0669e60d07",
-          "lastSyncedAt": "2026-11-16T17:47:20.678Z"
+          "lastSyncedAt": "2026-11-16T18:21:27.165Z"
         }
       ]
     },
