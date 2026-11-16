@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-16T17:57:50.093Z",
+  "updatedAt": "2026-11-16T17:58:01.055Z",
   "problems": [
     {
       "frontendId": "17",
@@ -43,7 +43,7 @@
           "filename": "0022-generate-parentheses.cpp",
           "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "3385b1421691eaab60e68ca051de10a7c71e7566",
-          "lastSyncedAt": "2026-11-15T16:57:10.857Z"
+          "lastSyncedAt": "2026-11-16T17:58:01.055Z"
         }
       ]
     },
