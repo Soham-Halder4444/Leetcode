@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-16T17:54:43.001Z",
+  "updatedAt": "2026-11-16T17:54:51.888Z",
   "problems": [
     {
       "frontendId": "84",
@@ -183,7 +183,7 @@
           "filename": "2104-sum-of-subarray-ranges.cpp",
           "path": "2104-sum-of-subarray-ranges/2104-sum-of-subarray-ranges.cpp",
           "sha": "4813ec9e7c978d2a1d6b5cf884cf20a3a2ade16f",
-          "lastSyncedAt": "2026-11-15T16:52:07.125Z"
+          "lastSyncedAt": "2026-11-16T17:54:51.888Z"
         }
       ]
     }
