@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:07:44.528Z",
+  "updatedAt": "2026-11-16T18:07:52.623Z",
   "problems": [
     {
       "frontendId": "1",
@@ -464,6 +464,26 @@
           "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.cpp",
           "sha": "0c6b5b73011c6f3b82e637804d2f85820c641b36",
           "lastSyncedAt": "2026-11-16T17:46:57.753Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "problemName": "0118-pascals-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+      "folderPath": "0118-pascals-triangle/",
+      "readmePath": "0118-pascals-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0118-pascals-triangle.cpp",
+          "path": "0118-pascals-triangle/0118-pascals-triangle.cpp",
+          "sha": "c3ab2e4f83b07eced1971659198b192f34d09bca",
+          "lastSyncedAt": "2026-11-16T18:07:52.623Z"
         }
       ]
     },
