@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-16T18:06:50.127Z",
+  "updatedAt": "2026-11-16T18:07:44.528Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.cpp",
           "sha": "b5ba07f22e8eed26c8b07c8de3cc95586440549a",
           "lastSyncedAt": "2026-11-16T17:54:17.931Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "119",
+      "title": "Pascal's Triangle II",
+      "slug": "pascals-triangle-ii",
+      "problemName": "0119-pascals-triangle-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
+      "folderPath": "0119-pascals-triangle-ii/",
+      "readmePath": "0119-pascals-triangle-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0119-pascals-triangle-ii.cpp",
+          "path": "0119-pascals-triangle-ii/0119-pascals-triangle-ii.cpp",
+          "sha": "455d4aba0d0de699f40a0b94ccc70ac68d287aa0",
+          "lastSyncedAt": "2026-11-16T18:07:44.528Z"
         }
       ]
     },
