@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-16T18:04:17.029Z",
+  "updatedAt": "2026-11-16T18:04:27.685Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "0004-median-of-two-sorted-arrays/",
+      "readmePath": "0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0004-median-of-two-sorted-arrays.cpp",
+          "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
+          "sha": "8b10f84b13b928126113696c8b6f8c98331b3dbc",
+          "lastSyncedAt": "2026-11-16T18:04:27.685Z"
+        }
+      ]
+    },
     {
       "frontendId": "35",
       "title": "Search Insert Position",
