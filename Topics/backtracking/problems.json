@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-15T16:57:10.857Z",
+  "updatedAt": "2026-11-16T17:56:30.293Z",
   "problems": [
     {
       "frontendId": "17",
@@ -123,7 +123,7 @@
           "filename": "0078-subsets.cpp",
           "path": "0078-subsets/0078-subsets.cpp",
           "sha": "077e8905da03434a4575d63169e69db23cb7245b",
-          "lastSyncedAt": "2026-11-15T16:54:40.894Z"
+          "lastSyncedAt": "2026-11-16T17:56:30.293Z"
         }
       ]
     },
