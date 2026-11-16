@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T17:37:45.847Z",
+  "updatedAt": "2026-11-16T17:38:06.671Z",
   "problems": [
     {
       "frontendId": "1",
@@ -443,7 +443,7 @@
           "filename": "0721-accounts-merge.cpp",
           "path": "0721-accounts-merge/0721-accounts-merge.cpp",
           "sha": "8ba6f627efdbbcb0925ccd8ea748708081c2862f",
-          "lastSyncedAt": "2026-11-15T17:47:12.308Z"
+          "lastSyncedAt": "2026-11-16T17:38:06.671Z"
         }
       ]
     },
