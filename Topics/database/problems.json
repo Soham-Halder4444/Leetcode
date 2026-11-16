@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-16T18:00:08.823Z",
+  "updatedAt": "2026-11-16T18:00:12.507Z",
   "problems": [
     {
       "frontendId": "176",
@@ -103,7 +103,7 @@
           "filename": "0197-rising-temperature.sql",
           "path": "0197-rising-temperature/0197-rising-temperature.sql",
           "sha": "dd523ef234922216b07db34189422f6c07e76e4c",
-          "lastSyncedAt": "2026-11-15T17:01:12.358Z"
+          "lastSyncedAt": "2026-11-16T18:00:12.507Z"
         }
       ]
     },
