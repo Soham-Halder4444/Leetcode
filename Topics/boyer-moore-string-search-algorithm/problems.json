@@ -5,7 +5,7 @@
     "name": "Boyer–Moore String-Search Algorithm",
     "tagId": "122019"
   },
-  "updatedAt": "2026-11-16T17:48:07.083Z",
+  "updatedAt": "2026-11-16T18:22:18.707Z",
   "problems": [
     {
       "frontendId": "28",
@@ -23,7 +23,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "eda73caa38f18e24e745f7d2bee839d3c8da2734",
-          "lastSyncedAt": "2026-11-16T17:48:07.083Z"
+          "lastSyncedAt": "2026-11-16T18:22:18.707Z"
         }
       ]
     }
