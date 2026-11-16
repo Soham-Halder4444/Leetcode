@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-16T17:58:54.025Z",
+  "updatedAt": "2026-11-16T17:58:56.738Z",
   "problems": [
     {
       "frontendId": "176",
@@ -483,7 +483,7 @@
           "filename": "1164-product-price-at-a-given-date.sql",
           "path": "1164-product-price-at-a-given-date/1164-product-price-at-a-given-date.sql",
           "sha": "f7220d10fbd4ba5a25f0366fbf7fcbb0d79c81bd",
-          "lastSyncedAt": "2026-11-15T16:58:51.884Z"
+          "lastSyncedAt": "2026-11-16T17:58:56.738Z"
         }
       ]
     },
