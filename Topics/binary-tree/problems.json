@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-16T18:21:55.876Z",
+  "updatedAt": "2026-11-16T18:22:41.730Z",
   "problems": [
     {
       "frontendId": "94",
@@ -523,7 +523,7 @@
           "filename": "0662-maximum-width-of-binary-tree.cpp",
           "path": "0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree.cpp",
           "sha": "e5f813feb85b4ea56e92c9a98b193a9d996beaf0",
-          "lastSyncedAt": "2026-11-16T17:48:26.024Z"
+          "lastSyncedAt": "2026-11-16T18:22:41.730Z"
         }
       ]
     },
