@@ -5,7 +5,7 @@
     "name": "String Matching",
     "tagId": "61052"
   },
-  "updatedAt": "2026-11-16T17:48:07.083Z",
+  "updatedAt": "2026-11-16T18:03:09.736Z",
   "problems": [
     {
       "frontendId": "28",
@@ -43,7 +43,7 @@
           "filename": "0796-rotate-string.cpp",
           "path": "0796-rotate-string/0796-rotate-string.cpp",
           "sha": "bfc1e7a9de1e04f787d24210bc48b2a370b7c08f",
-          "lastSyncedAt": "2026-11-15T17:06:39.481Z"
+          "lastSyncedAt": "2026-11-16T18:03:09.736Z"
         }
       ]
     }
