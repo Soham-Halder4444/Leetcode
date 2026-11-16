@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:24:20.683Z",
+  "updatedAt": "2026-11-16T18:24:30.497Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1823,7 +1823,7 @@
           "filename": "4034-minimum-bishop-moves-to-reach-target.cpp",
           "path": "4034-minimum-bishop-moves-to-reach-target/4034-minimum-bishop-moves-to-reach-target.cpp",
           "sha": "c99bb4f1c2ba1fe2f5cee0c3842dfa99223a6c2d",
-          "lastSyncedAt": "2026-11-16T17:49:55.956Z"
+          "lastSyncedAt": "2026-11-16T18:24:30.497Z"
         }
       ]
     },
