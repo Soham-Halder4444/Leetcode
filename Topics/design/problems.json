@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-16T17:44:26.092Z",
+  "updatedAt": "2026-11-16T17:46:35.936Z",
   "problems": [
     {
       "frontendId": "155",
@@ -143,7 +143,7 @@
           "filename": "0297-serialize-and-deserialize-binary-tree.cpp",
           "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.cpp",
           "sha": "4fd455a836bfca34a239f7c6b035831a4633c176",
-          "lastSyncedAt": "2026-11-15T17:54:48.456Z"
+          "lastSyncedAt": "2026-11-16T17:46:35.936Z"
         }
       ]
     },
