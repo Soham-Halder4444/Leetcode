@@ -5,8 +5,28 @@
     "name": "Quicksort",
     "tagId": "68362"
   },
-  "updatedAt": "2026-11-16T17:51:06.914Z",
+  "updatedAt": "2026-11-16T18:07:14.092Z",
   "problems": [
+    {
+      "frontendId": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "problemName": "0056-merge-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+      "folderPath": "0056-merge-intervals/",
+      "readmePath": "0056-merge-intervals/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0056-merge-intervals.cpp",
+          "path": "0056-merge-intervals/0056-merge-intervals.cpp",
+          "sha": "442f60483d7b0518c4eacb155156c68a9ab57d14",
+          "lastSyncedAt": "2026-11-16T18:07:14.092Z"
+        }
+      ]
+    },
     {
       "frontendId": "455",
       "title": "Assign Cookies",
