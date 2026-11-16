@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T18:08:25.368Z",
+  "updatedAt": "2026-11-16T18:08:34.628Z",
   "problems": [
     {
       "frontendId": "1",
@@ -204,6 +204,26 @@
           "path": "0127-word-ladder/0127-word-ladder.cpp",
           "sha": "79df55f4be4c907f690980b8d379e4904d5a03f0",
           "lastSyncedAt": "2026-11-16T17:41:09.341Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "problemName": "0128-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "folderPath": "0128-longest-consecutive-sequence/",
+      "readmePath": "0128-longest-consecutive-sequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0128-longest-consecutive-sequence.cpp",
+          "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.cpp",
+          "sha": "61cef46c0e18fdee7eb27760ce2140e1b6d6fbbe",
+          "lastSyncedAt": "2026-11-16T18:08:34.628Z"
         }
       ]
     },
