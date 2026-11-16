@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-16T17:59:59.217Z",
+  "updatedAt": "2026-11-16T18:00:01.987Z",
   "problems": [
     {
       "frontendId": "176",
@@ -603,7 +603,7 @@
           "filename": "1280-students-and-examinations.sql",
           "path": "1280-students-and-examinations/1280-students-and-examinations.sql",
           "sha": "b264b7f6d8bb7a92efa0f93c4ed740c7fc4dcaf6",
-          "lastSyncedAt": "2026-11-15T17:00:55.017Z"
+          "lastSyncedAt": "2026-11-16T18:00:01.987Z"
         }
       ]
     },
