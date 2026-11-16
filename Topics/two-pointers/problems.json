@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T17:57:05.423Z",
+  "updatedAt": "2026-11-16T17:36:10.105Z",
   "problems": [
     {
       "frontendId": "5",
@@ -123,7 +123,7 @@
           "filename": "0088-merge-sorted-array.cpp",
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.cpp",
           "sha": "c4bcba98c84cc582ef3208bc4c4540d6f68326ee",
-          "lastSyncedAt": "2026-11-15T17:46:25.475Z"
+          "lastSyncedAt": "2026-11-16T17:36:10.105Z"
         }
       ]
     },
