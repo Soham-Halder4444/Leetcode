@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-16T18:13:52.717Z",
+  "updatedAt": "2026-11-16T18:23:31.807Z",
   "problems": [
     {
       "frontendId": "15",
@@ -343,7 +343,7 @@
           "filename": "0987-vertical-order-traversal-of-a-binary-tree.cpp",
           "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.cpp",
           "sha": "8e8026d25634189944ab7ef65416090611a9e1ae",
-          "lastSyncedAt": "2026-11-16T17:49:02.501Z"
+          "lastSyncedAt": "2026-11-16T18:23:31.807Z"
         }
       ]
     }
