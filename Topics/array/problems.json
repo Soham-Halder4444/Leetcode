@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:08:25.368Z",
+  "updatedAt": "2026-11-16T18:08:34.628Z",
   "problems": [
     {
       "frontendId": "1",
@@ -544,6 +544,26 @@
           "path": "0119-pascals-triangle-ii/0119-pascals-triangle-ii.cpp",
           "sha": "455d4aba0d0de699f40a0b94ccc70ac68d287aa0",
           "lastSyncedAt": "2026-11-16T18:07:44.528Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "problemName": "0128-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "folderPath": "0128-longest-consecutive-sequence/",
+      "readmePath": "0128-longest-consecutive-sequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0128-longest-consecutive-sequence.cpp",
+          "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.cpp",
+          "sha": "61cef46c0e18fdee7eb27760ce2140e1b6d6fbbe",
+          "lastSyncedAt": "2026-11-16T18:08:34.628Z"
         }
       ]
     },
