@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-16T17:45:07.868Z",
+  "updatedAt": "2026-11-16T17:45:22.388Z",
   "problems": [
     {
       "frontendId": "79",
@@ -63,7 +63,7 @@
           "filename": "0098-validate-binary-search-tree.cpp",
           "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
           "sha": "70fe0fe77a338b4963a119faf4f16dc64d0b2b27",
-          "lastSyncedAt": "2026-11-15T17:53:18.438Z"
+          "lastSyncedAt": "2026-11-16T17:45:22.388Z"
         }
       ]
     },
