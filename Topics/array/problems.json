@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T17:56:57.583Z",
+  "updatedAt": "2026-11-16T17:57:12.502Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,7 +143,7 @@
           "filename": "0051-n-queens.cpp",
           "path": "0051-n-queens/0051-n-queens.cpp",
           "sha": "ec86550535f85de0d90b8775a1d34e70bbcadf61",
-          "lastSyncedAt": "2026-11-15T16:55:51.551Z"
+          "lastSyncedAt": "2026-11-16T17:57:12.502Z"
         }
       ]
     },
