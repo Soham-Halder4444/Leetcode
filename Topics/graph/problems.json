@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-16T17:43:58.642Z",
+  "updatedAt": "2026-11-16T18:13:25.862Z",
   "problems": [
     {
       "frontendId": "207",
@@ -183,7 +183,7 @@
           "filename": "1192-critical-connections-in-a-network.cpp",
           "path": "1192-critical-connections-in-a-network/1192-critical-connections-in-a-network.cpp",
           "sha": "c7a502a8afffc8f3c7760150a43b9617d330c125",
-          "lastSyncedAt": "2026-11-16T17:37:29.626Z"
+          "lastSyncedAt": "2026-11-16T18:13:25.862Z"
         }
       ]
     },
