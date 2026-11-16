@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-16T17:53:27.056Z",
+  "updatedAt": "2026-11-16T18:04:37.327Z",
   "problems": [
+    {
+      "frontendId": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "problemName": "0410-split-array-largest-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+      "folderPath": "0410-split-array-largest-sum/",
+      "readmePath": "0410-split-array-largest-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0410-split-array-largest-sum.cpp",
+          "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.cpp",
+          "sha": "42c82c1943ab0e4982e27c63066421b91f244a2d",
+          "lastSyncedAt": "2026-11-16T18:04:37.327Z"
+        }
+      ]
+    },
     {
       "frontendId": "930",
       "title": "Binary Subarrays With Sum",
