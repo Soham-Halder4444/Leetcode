@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-16T17:58:44.961Z",
+  "updatedAt": "2026-11-16T17:58:47.720Z",
   "problems": [
     {
       "frontendId": "176",
@@ -983,7 +983,7 @@
           "filename": "1978-employees-whose-manager-left-the-company.sql",
           "path": "1978-employees-whose-manager-left-the-company/1978-employees-whose-manager-left-the-company.sql",
           "sha": "64a44acad98509fdd0be2bda4d83259d5884f69b",
-          "lastSyncedAt": "2026-11-15T16:58:34.495Z"
+          "lastSyncedAt": "2026-11-16T17:58:47.720Z"
         }
       ]
     },
