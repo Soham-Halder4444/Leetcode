@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-16T17:48:35.612Z",
+  "updatedAt": "2026-11-16T17:48:46.018Z",
   "problems": [
     {
       "frontendId": "94",
@@ -83,7 +83,7 @@
           "filename": "0101-symmetric-tree.cpp",
           "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
           "sha": "9b3d1361c47116330db73f27cb9b3d21ef701772",
-          "lastSyncedAt": "2026-11-15T17:57:39.931Z"
+          "lastSyncedAt": "2026-11-16T17:48:46.018Z"
         }
       ]
     },
