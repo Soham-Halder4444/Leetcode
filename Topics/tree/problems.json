@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-16T18:21:27.165Z",
+  "updatedAt": "2026-11-16T18:21:38.346Z",
   "problems": [
     {
       "frontendId": "94",
@@ -383,7 +383,7 @@
           "filename": "0222-count-complete-tree-nodes.cpp",
           "path": "0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.cpp",
           "sha": "6e6513fee2f2f5afd9e0f0543096d3a50d230de3",
-          "lastSyncedAt": "2026-11-16T17:47:30.212Z"
+          "lastSyncedAt": "2026-11-16T18:21:38.346Z"
         }
       ]
     },
