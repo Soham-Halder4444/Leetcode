@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-16T17:52:43.265Z",
+  "updatedAt": "2026-11-16T17:52:54.561Z",
   "problems": [
     {
       "frontendId": "3",
@@ -183,7 +183,7 @@
           "filename": "1358-number-of-substrings-containing-all-three-characters.cpp",
           "path": "1358-number-of-substrings-containing-all-three-characters/1358-number-of-substrings-containing-all-three-characters.cpp",
           "sha": "47c81897da63e6f386b2df26012b8017e9dee722",
-          "lastSyncedAt": "2026-11-15T16:49:15.847Z"
+          "lastSyncedAt": "2026-11-16T17:52:54.561Z"
         }
       ]
     }
