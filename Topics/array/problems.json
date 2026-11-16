@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:17:04.796Z",
+  "updatedAt": "2026-11-16T18:17:14.627Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1443,7 +1443,7 @@
           "filename": "0994-rotting-oranges.cpp",
           "path": "0994-rotting-oranges/0994-rotting-oranges.cpp",
           "sha": "75ad522fb08b758e019d71f2d83ed34612d6c6b5",
-          "lastSyncedAt": "2026-11-16T17:43:25.778Z"
+          "lastSyncedAt": "2026-11-16T18:17:14.627Z"
         }
       ]
     },
