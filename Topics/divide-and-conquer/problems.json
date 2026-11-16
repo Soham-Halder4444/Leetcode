@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-16T17:47:20.678Z",
+  "updatedAt": "2026-11-16T17:49:42.551Z",
   "problems": [
     {
       "frontendId": "23",
@@ -143,7 +143,7 @@
           "filename": "0191-number-of-1-bits.cpp",
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.cpp",
           "sha": "6fa4038e8be6ddd8cc72c49db61137647ff5a0c0",
-          "lastSyncedAt": "2026-11-15T16:43:34.111Z"
+          "lastSyncedAt": "2026-11-16T17:49:42.551Z"
         }
       ]
     },
