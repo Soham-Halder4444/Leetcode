@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-16T18:12:42.517Z",
+  "updatedAt": "2026-11-16T18:13:52.717Z",
   "problems": [
     {
       "frontendId": "15",
@@ -303,7 +303,7 @@
           "filename": "0721-accounts-merge.cpp",
           "path": "0721-accounts-merge/0721-accounts-merge.cpp",
           "sha": "8ba6f627efdbbcb0925ccd8ea748708081c2862f",
-          "lastSyncedAt": "2026-11-16T17:38:06.671Z"
+          "lastSyncedAt": "2026-11-16T18:13:52.717Z"
         }
       ]
     },
