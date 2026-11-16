@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-16T17:54:51.888Z",
+  "updatedAt": "2026-11-16T17:55:09.866Z",
   "problems": [
     {
       "frontendId": "84",
@@ -143,7 +143,7 @@
           "filename": "0907-sum-of-subarray-minimums.cpp",
           "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.cpp",
           "sha": "7ac0be6f9769724c8664f5b1c31f21632ff056c3",
-          "lastSyncedAt": "2026-11-15T16:52:34.077Z"
+          "lastSyncedAt": "2026-11-16T17:55:09.866Z"
         }
       ]
     },
