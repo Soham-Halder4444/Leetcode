@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T17:53:27.056Z",
+  "updatedAt": "2026-11-16T17:53:59.452Z",
   "problems": [
     {
       "frontendId": "1",
@@ -483,7 +483,7 @@
           "filename": "0239-sliding-window-maximum.cpp",
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.cpp",
           "sha": "269179cee9e3ec450058da9321e6c59d059a6dda",
-          "lastSyncedAt": "2026-11-15T16:50:51.302Z"
+          "lastSyncedAt": "2026-11-16T17:53:59.452Z"
         }
       ]
     },
