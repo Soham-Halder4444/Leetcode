@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T17:47:45.218Z",
+  "updatedAt": "2026-11-16T17:49:02.501Z",
   "problems": [
     {
       "frontendId": "1",
@@ -563,7 +563,7 @@
           "filename": "0987-vertical-order-traversal-of-a-binary-tree.cpp",
           "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.cpp",
           "sha": "8e8026d25634189944ab7ef65416090611a9e1ae",
-          "lastSyncedAt": "2026-11-15T16:41:59.834Z"
+          "lastSyncedAt": "2026-11-16T17:49:02.501Z"
         }
       ]
     },
