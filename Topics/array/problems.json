@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:04:37.327Z",
+  "updatedAt": "2026-11-16T18:04:51.672Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1024,6 +1024,26 @@
           "path": "1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.cpp",
           "sha": "fa526e4c57fe6365a5d1b48237ab01d98b92f5d3",
           "lastSyncedAt": "2026-11-16T17:53:00.614Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "problemName": "1539-kth-missing-positive-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "folderPath": "1539-kth-missing-positive-number/",
+      "readmePath": "1539-kth-missing-positive-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1539-kth-missing-positive-number.cpp",
+          "path": "1539-kth-missing-positive-number/1539-kth-missing-positive-number.cpp",
+          "sha": "69fc78785cf881879a15e1d6fd179d2be33b39ee",
+          "lastSyncedAt": "2026-11-16T18:04:51.672Z"
         }
       ]
     },
