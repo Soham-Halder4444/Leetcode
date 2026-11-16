@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-16T17:58:28.059Z",
+  "updatedAt": "2026-11-16T17:58:30.935Z",
   "problems": [
     {
       "frontendId": "176",
@@ -703,7 +703,7 @@
           "filename": "1484-group-sold-products-by-the-date.sql",
           "path": "1484-group-sold-products-by-the-date/1484-group-sold-products-by-the-date.sql",
           "sha": "4a2acdac5e337ea9f221ae4ee6d5cc42e08af0a8",
-          "lastSyncedAt": "2026-11-15T16:58:03.216Z"
+          "lastSyncedAt": "2026-11-16T17:58:30.935Z"
         }
       ]
     },
