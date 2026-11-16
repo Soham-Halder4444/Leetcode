@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:06:59.289Z",
+  "updatedAt": "2026-11-16T18:07:14.092Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "0051-n-queens/0051-n-queens.cpp",
           "sha": "ec86550535f85de0d90b8775a1d34e70bbcadf61",
           "lastSyncedAt": "2026-11-16T17:57:12.502Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "problemName": "0056-merge-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+      "folderPath": "0056-merge-intervals/",
+      "readmePath": "0056-merge-intervals/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0056-merge-intervals.cpp",
+          "path": "0056-merge-intervals/0056-merge-intervals.cpp",
+          "sha": "442f60483d7b0518c4eacb155156c68a9ab57d14",
+          "lastSyncedAt": "2026-11-16T18:07:14.092Z"
         }
       ]
     },
