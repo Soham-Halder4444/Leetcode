@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-11-16T18:06:23.601Z",
+  "updatedAt": "2026-11-16T18:13:12.237Z",
   "problems": [
     {
       "frontendId": "493",
@@ -43,7 +43,7 @@
           "filename": "3477-fruits-into-baskets-ii.cpp",
           "path": "3477-fruits-into-baskets-ii/3477-fruits-into-baskets-ii.cpp",
           "sha": "06927462d7cc2cc1d9f93d594143394b40bd7085",
-          "lastSyncedAt": "2026-11-16T17:37:06.349Z"
+          "lastSyncedAt": "2026-11-16T18:13:12.237Z"
         }
       ]
     }
