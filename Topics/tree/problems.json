@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-16T18:23:45.474Z",
+  "updatedAt": "2026-11-16T18:23:52.095Z",
   "problems": [
     {
       "frontendId": "94",
@@ -63,7 +63,7 @@
           "filename": "0100-same-tree.cpp",
           "path": "0100-same-tree/0100-same-tree.cpp",
           "sha": "53ca1fb52448e2a213619e0a3cc0a2e34a09aa74",
-          "lastSyncedAt": "2026-11-16T17:49:22.673Z"
+          "lastSyncedAt": "2026-11-16T18:23:52.095Z"
         }
       ]
     },
