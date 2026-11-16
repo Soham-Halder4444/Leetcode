@@ -5,7 +5,7 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-11-15T17:51:59.470Z",
+  "updatedAt": "2026-11-16T17:44:06.942Z",
   "problems": [
     {
       "frontendId": "14",
@@ -63,7 +63,7 @@
           "filename": "1707-maximum-xor-with-an-element-from-array.cpp",
           "path": "1707-maximum-xor-with-an-element-from-array/1707-maximum-xor-with-an-element-from-array.cpp",
           "sha": "aff9a95ff28360330616b65d48adf65cd2ea4321",
-          "lastSyncedAt": "2026-11-15T17:51:49.873Z"
+          "lastSyncedAt": "2026-11-16T17:44:06.942Z"
         }
       ]
     }
