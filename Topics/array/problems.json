@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:06:07.017Z",
+  "updatedAt": "2026-11-16T18:06:15.047Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1304,6 +1304,26 @@
           "path": "3477-fruits-into-baskets-ii/3477-fruits-into-baskets-ii.cpp",
           "sha": "06927462d7cc2cc1d9f93d594143394b40bd7085",
           "lastSyncedAt": "2026-11-16T17:37:06.349Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3940",
+      "title": "Limit Occurrences in Sorted Array",
+      "slug": "limit-occurrences-in-sorted-array",
+      "problemName": "3940-limit-occurrences-in-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/limit-occurrences-in-sorted-array/",
+      "folderPath": "3940-limit-occurrences-in-sorted-array/",
+      "readmePath": "3940-limit-occurrences-in-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3940-limit-occurrences-in-sorted-array.cpp",
+          "path": "3940-limit-occurrences-in-sorted-array/3940-limit-occurrences-in-sorted-array.cpp",
+          "sha": "670985d735aa8fa039fa7aca54f71d8f7c9a48dd",
+          "lastSyncedAt": "2026-11-16T18:06:15.047Z"
         }
       ]
     },
