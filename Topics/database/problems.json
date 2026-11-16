@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-16T17:59:25.421Z",
+  "updatedAt": "2026-11-16T17:59:28.376Z",
   "problems": [
     {
       "frontendId": "176",
@@ -1003,7 +1003,7 @@
           "filename": "2356-number-of-unique-subjects-taught-by-each-teacher.sql",
           "path": "2356-number-of-unique-subjects-taught-by-each-teacher/2356-number-of-unique-subjects-taught-by-each-teacher.sql",
           "sha": "e9390c7a3c71fca1c4cd890d8af7c3251e6dc120",
-          "lastSyncedAt": "2026-11-15T16:59:54.611Z"
+          "lastSyncedAt": "2026-11-16T17:59:28.376Z"
         }
       ]
     }
