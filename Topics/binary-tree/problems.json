@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-16T18:19:17.118Z",
+  "updatedAt": "2026-11-16T18:19:26.944Z",
   "problems": [
     {
       "frontendId": "94",
@@ -483,7 +483,7 @@
           "filename": "0450-delete-node-in-a-bst.cpp",
           "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.cpp",
           "sha": "be25454fc393a12a14b8419ddf25457fe300fedf",
-          "lastSyncedAt": "2026-11-16T17:45:31.403Z"
+          "lastSyncedAt": "2026-11-16T18:19:26.944Z"
         }
       ]
     },
