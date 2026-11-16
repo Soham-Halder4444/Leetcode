@@ -17,17 +17,16 @@ This repository contains my solutions to problems covering:
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 241 | 91 | 129 | 21 |
+| 242 | 92 | 129 | 21 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 37 days | 78 |
+| 2 days | 37 days | 79 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-14 | 5 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 1 |
 | 2026-09-26 | 1 |
@@ -41,12 +40,13 @@ This repository contains my solutions to problems covering:
 | 2026-11-12 | 4 |
 | 2026-11-13 | 1 |
 | 2026-11-15 | 4 |
+| 2026-11-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 91 | 38% |
+| Array | 92 | 38% |
 | Database | 50 | 21% |
 | Depth-First Search | 40 | 17% |
 | Hash Table | 37 | 15% |
@@ -62,7 +62,7 @@ This repository contains my solutions to problems covering:
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 91 |
+| [Array](Topics/array/) | 92 |
 | [Backtracking](Topics/backtracking/) | 10 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Biconnected Component](Topics/biconnected-component/) | 1 |
@@ -90,7 +90,7 @@ This repository contains my solutions to problems covering:
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 12 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 17 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
