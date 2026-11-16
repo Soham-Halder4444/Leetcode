@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-16T18:06:59.289Z",
+  "updatedAt": "2026-11-16T18:09:35.623Z",
   "problems": [
     {
       "frontendId": "9",
@@ -144,6 +144,26 @@
           "path": "0070-climbing-stairs/0070-climbing-stairs.cpp",
           "sha": "cbb3a6ae1df6af4893d9b05291f32370a37df4eb",
           "lastSyncedAt": "2026-11-16T17:51:39.953Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0189-rotate-array.cpp",
+          "path": "0189-rotate-array/0189-rotate-array.cpp",
+          "sha": "5c811c84b1daf7745bcd240fff102c1b8091b42d",
+          "lastSyncedAt": "2026-11-16T18:09:35.623Z"
         }
       ]
     },
