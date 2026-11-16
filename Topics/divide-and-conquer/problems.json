@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-16T18:06:23.601Z",
+  "updatedAt": "2026-11-16T18:09:46.555Z",
   "problems": [
     {
       "frontendId": "4",
@@ -164,6 +164,26 @@
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.cpp",
           "sha": "6fa4038e8be6ddd8cc72c49db61137647ff5a0c0",
           "lastSyncedAt": "2026-11-16T17:49:42.551Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "0215-kth-largest-element-in-an-array/",
+      "readmePath": "0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0215-kth-largest-element-in-an-array.cpp",
+          "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
+          "sha": "f0921be2acb8ebe94e50e8c143b4fd973ab0fb04",
+          "lastSyncedAt": "2026-11-16T18:09:46.555Z"
         }
       ]
     },
