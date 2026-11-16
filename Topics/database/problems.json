@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-16T17:59:17.348Z",
+  "updatedAt": "2026-11-16T17:59:19.790Z",
   "problems": [
     {
       "frontendId": "176",
@@ -243,7 +243,7 @@
           "filename": "0596-classes-with-at-least-5-students.sql",
           "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.sql",
           "sha": "be80421056e6e57d7afb9167b6fec0c9554a74fc",
-          "lastSyncedAt": "2026-11-15T16:59:36.968Z"
+          "lastSyncedAt": "2026-11-16T17:59:19.790Z"
         }
       ]
     },
