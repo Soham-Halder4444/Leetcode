@@ -5,7 +5,7 @@
     "name": "Floyd–Warshall Algorithm",
     "tagId": "81688"
   },
-  "updatedAt": "2026-11-16T17:39:28.336Z",
+  "updatedAt": "2026-11-16T18:14:52.108Z",
   "problems": [
     {
       "frontendId": "1334",
@@ -23,7 +23,7 @@
           "filename": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp",
           "path": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp",
           "sha": "4af0765cf6b74047005367a037ef2b480e611ffe",
-          "lastSyncedAt": "2026-11-16T17:39:28.336Z"
+          "lastSyncedAt": "2026-11-16T18:14:52.108Z"
         }
       ]
     }
