@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-16T18:02:05.882Z",
+  "updatedAt": "2026-11-16T18:02:09.751Z",
   "problems": [
     {
       "frontendId": "19",
@@ -343,7 +343,7 @@
           "filename": "0876-middle-of-the-linked-list.cpp",
           "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp",
           "sha": "fadf745333e7e47285af3a2dc78252e2e598e7a7",
-          "lastSyncedAt": "2026-11-15T17:04:55.570Z"
+          "lastSyncedAt": "2026-11-16T18:02:09.751Z"
         }
       ]
     },
