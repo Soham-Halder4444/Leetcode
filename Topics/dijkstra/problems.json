@@ -5,7 +5,7 @@
     "name": "Dijkstra's Algorithm",
     "tagId": "71093"
   },
-  "updatedAt": "2026-11-16T18:14:52.108Z",
+  "updatedAt": "2026-11-16T18:15:04.780Z",
   "problems": [
     {
       "frontendId": "743",
@@ -103,7 +103,7 @@
           "filename": "1976-number-of-ways-to-arrive-at-destination.cpp",
           "path": "1976-number-of-ways-to-arrive-at-destination/1976-number-of-ways-to-arrive-at-destination.cpp",
           "sha": "8ae26313ec57d21df8edb764986a38d013521f2a",
-          "lastSyncedAt": "2026-11-16T17:39:45.875Z"
+          "lastSyncedAt": "2026-11-16T18:15:04.780Z"
         }
       ]
     }
