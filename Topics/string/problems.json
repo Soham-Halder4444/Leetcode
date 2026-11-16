@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T17:50:49.551Z",
+  "updatedAt": "2026-11-16T17:52:36.070Z",
   "problems": [
     {
       "frontendId": "3",
@@ -243,7 +243,7 @@
           "filename": "0076-minimum-window-substring.cpp",
           "path": "0076-minimum-window-substring/0076-minimum-window-substring.cpp",
           "sha": "aa1e92474605e735902d8f036212ec1043da2e2f",
-          "lastSyncedAt": "2026-11-15T16:48:45.643Z"
+          "lastSyncedAt": "2026-11-16T17:52:36.070Z"
         }
       ]
     },
