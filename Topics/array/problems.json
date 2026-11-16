@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:18:41.018Z",
+  "updatedAt": "2026-11-16T18:18:52.366Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1503,7 +1503,7 @@
           "filename": "1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "sha": "af4372b1b739b48ed5d020596d8234216ac967f8",
-          "lastSyncedAt": "2026-11-16T17:44:54.248Z"
+          "lastSyncedAt": "2026-11-16T18:18:52.366Z"
         }
       ]
     },
