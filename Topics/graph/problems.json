@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-16T17:41:48.722Z",
+  "updatedAt": "2026-11-16T17:42:17.321Z",
   "problems": [
     {
       "frontendId": "207",
@@ -103,7 +103,7 @@
           "filename": "0785-is-graph-bipartite.cpp",
           "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.cpp",
           "sha": "ffd83c6c52a5f3cbdbf587bfc88f9fd69b79d342",
-          "lastSyncedAt": "2026-11-15T17:50:03.675Z"
+          "lastSyncedAt": "2026-11-16T17:42:17.321Z"
         }
       ]
     },
