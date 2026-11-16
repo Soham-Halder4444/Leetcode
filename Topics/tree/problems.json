@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-16T17:50:06.501Z",
+  "updatedAt": "2026-11-16T17:50:16.422Z",
   "problems": [
     {
       "frontendId": "94",
@@ -223,7 +223,7 @@
           "filename": "0110-balanced-binary-tree.cpp",
           "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.cpp",
           "sha": "1705fd50d3896aced8c91ea3c42aa52f98ee6472",
-          "lastSyncedAt": "2026-11-15T16:44:39.562Z"
+          "lastSyncedAt": "2026-11-16T17:50:16.422Z"
         }
       ]
     },
