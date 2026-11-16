@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-16T18:19:37.075Z",
+  "updatedAt": "2026-11-16T18:19:47.108Z",
   "problems": [
     {
       "frontendId": "94",
@@ -563,7 +563,7 @@
           "filename": "0701-insert-into-a-binary-search-tree.cpp",
           "path": "0701-insert-into-a-binary-search-tree/0701-insert-into-a-binary-search-tree.cpp",
           "sha": "dc26ccf12cfb874c9d634f73f98f8f383f0de1d4",
-          "lastSyncedAt": "2026-11-16T17:45:46.286Z"
+          "lastSyncedAt": "2026-11-16T18:19:47.108Z"
         }
       ]
     },
