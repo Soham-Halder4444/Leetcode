@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-16T17:49:36.798Z",
+  "updatedAt": "2026-11-16T17:56:50.780Z",
   "problems": [
     {
       "frontendId": "21",
@@ -103,7 +103,7 @@
           "filename": "0231-power-of-two.cpp",
           "path": "0231-power-of-two/0231-power-of-two.cpp",
           "sha": "572b5d740747af96af544667836bd0d68777569c",
-          "lastSyncedAt": "2026-11-15T16:55:18.634Z"
+          "lastSyncedAt": "2026-11-16T17:56:50.780Z"
         }
       ]
     },
