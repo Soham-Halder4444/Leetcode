@@ -5,7 +5,7 @@
     "name": "DP on Trees",
     "tagId": "71152"
   },
-  "updatedAt": "2026-11-15T16:44:20.708Z",
+  "updatedAt": "2026-11-16T17:50:06.501Z",
   "problems": [
     {
       "frontendId": "543",
@@ -23,7 +23,7 @@
           "filename": "0543-diameter-of-binary-tree.cpp",
           "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.cpp",
           "sha": "43ab7b0f457da7d9510994eb46dbe10e62822daa",
-          "lastSyncedAt": "2026-11-15T16:44:20.708Z"
+          "lastSyncedAt": "2026-11-16T17:50:06.501Z"
         }
       ]
     }
