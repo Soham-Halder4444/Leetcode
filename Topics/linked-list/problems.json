@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-16T18:01:04.659Z",
+  "updatedAt": "2026-11-16T18:01:11.604Z",
   "problems": [
     {
       "frontendId": "19",
@@ -223,7 +223,7 @@
           "filename": "0148-sort-list.cpp",
           "path": "0148-sort-list/0148-sort-list.cpp",
           "sha": "b71bb8364fe77da064fc1eb4ddb11f5390cc3d86",
-          "lastSyncedAt": "2026-11-15T17:03:11.819Z"
+          "lastSyncedAt": "2026-11-16T18:01:11.604Z"
         }
       ]
     },
