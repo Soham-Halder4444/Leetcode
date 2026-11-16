@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T17:52:04.054Z",
+  "updatedAt": "2026-11-16T17:52:14.300Z",
   "problems": [
     {
       "frontendId": "1",
@@ -423,7 +423,7 @@
           "filename": "0621-task-scheduler.cpp",
           "path": "0621-task-scheduler/0621-task-scheduler.cpp",
           "sha": "dd9565cc9fd99d590d392ac30cea8dce6509d39f",
-          "lastSyncedAt": "2026-11-15T16:48:03.802Z"
+          "lastSyncedAt": "2026-11-16T17:52:14.300Z"
         }
       ]
     },
