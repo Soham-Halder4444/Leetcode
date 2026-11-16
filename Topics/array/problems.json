@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:17:41.496Z",
+  "updatedAt": "2026-11-16T18:17:59.455Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1663,7 +1663,7 @@
           "filename": "1707-maximum-xor-with-an-element-from-array.cpp",
           "path": "1707-maximum-xor-with-an-element-from-array/1707-maximum-xor-with-an-element-from-array.cpp",
           "sha": "aff9a95ff28360330616b65d48adf65cd2ea4321",
-          "lastSyncedAt": "2026-11-16T17:44:06.942Z"
+          "lastSyncedAt": "2026-11-16T18:17:59.455Z"
         }
       ]
     },
