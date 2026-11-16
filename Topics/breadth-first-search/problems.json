@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-16T17:49:22.673Z",
+  "updatedAt": "2026-11-16T17:50:23.183Z",
   "problems": [
     {
       "frontendId": "100",
@@ -103,7 +103,7 @@
           "filename": "0104-maximum-depth-of-binary-tree.cpp",
           "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.cpp",
           "sha": "cee38870fb040dc140f1a4cc7eaa696c5f71d8c9",
-          "lastSyncedAt": "2026-11-15T16:44:52.471Z"
+          "lastSyncedAt": "2026-11-16T17:50:23.183Z"
         }
       ]
     },
