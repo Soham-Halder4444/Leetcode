@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-16T17:45:53.745Z",
+  "updatedAt": "2026-11-16T17:46:00.049Z",
   "problems": [
     {
       "frontendId": "94",
@@ -243,7 +243,7 @@
           "filename": "0111-minimum-depth-of-binary-tree.cpp",
           "path": "0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.cpp",
           "sha": "700c4400da22439b31097fc1719f42fd3c0f3556",
-          "lastSyncedAt": "2026-11-15T17:54:02.459Z"
+          "lastSyncedAt": "2026-11-16T17:46:00.049Z"
         }
       ]
     },
