@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-16T17:55:59.159Z",
+  "updatedAt": "2026-11-16T17:56:05.922Z",
   "problems": [
     {
       "frontendId": "155",
@@ -83,7 +83,7 @@
           "filename": "0225-implement-stack-using-queues.cpp",
           "path": "0225-implement-stack-using-queues/0225-implement-stack-using-queues.cpp",
           "sha": "5a1e0b5881791b821d51616473a6c67527dc2eb1",
-          "lastSyncedAt": "2026-11-15T16:53:56.353Z"
+          "lastSyncedAt": "2026-11-16T17:56:05.922Z"
         }
       ]
     },
