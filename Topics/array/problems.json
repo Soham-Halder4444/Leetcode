@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:04:51.672Z",
+  "updatedAt": "2026-11-16T18:04:59.117Z",
   "problems": [
     {
       "frontendId": "1",
@@ -964,6 +964,26 @@
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "sha": "af4372b1b739b48ed5d020596d8234216ac967f8",
           "lastSyncedAt": "2026-11-16T17:44:54.248Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1011",
+      "title": "Capacity To Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "problemName": "1011-capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+      "folderPath": "1011-capacity-to-ship-packages-within-d-days/",
+      "readmePath": "1011-capacity-to-ship-packages-within-d-days/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1011-capacity-to-ship-packages-within-d-days.cpp",
+          "path": "1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.cpp",
+          "sha": "1ee9b62fbe6a2b7176a49106ac38d0dc2f35be90",
+          "lastSyncedAt": "2026-11-16T18:04:59.117Z"
         }
       ]
     },
