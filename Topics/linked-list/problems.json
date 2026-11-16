@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-16T17:46:25.437Z",
+  "updatedAt": "2026-11-16T17:49:36.798Z",
   "problems": [
     {
       "frontendId": "19",
@@ -43,7 +43,7 @@
           "filename": "0021-merge-two-sorted-lists.cpp",
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
           "sha": "46ed2aee8cf1f28e62043da531328f6dc20e88f5",
-          "lastSyncedAt": "2026-11-15T16:43:23.256Z"
+          "lastSyncedAt": "2026-11-16T17:49:36.798Z"
         }
       ]
     },
