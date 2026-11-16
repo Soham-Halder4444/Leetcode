@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T18:00:49.177Z",
+  "updatedAt": "2026-11-16T18:01:04.659Z",
   "problems": [
     {
       "frontendId": "1",
@@ -263,7 +263,7 @@
           "filename": "0160-intersection-of-two-linked-lists.cpp",
           "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
           "sha": "344ed16d7c2ea06465bc992f0da571d1fae1d4a7",
-          "lastSyncedAt": "2026-11-15T17:03:00.546Z"
+          "lastSyncedAt": "2026-11-16T18:01:04.659Z"
         }
       ]
     },
