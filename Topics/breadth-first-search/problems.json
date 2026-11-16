@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-16T18:15:27.010Z",
+  "updatedAt": "2026-11-16T18:15:47.993Z",
   "problems": [
     {
       "frontendId": "100",
@@ -603,7 +603,7 @@
           "filename": "1091-shortest-path-in-binary-matrix.cpp",
           "path": "1091-shortest-path-in-binary-matrix/1091-shortest-path-in-binary-matrix.cpp",
           "sha": "e2fdbebe6b2c3a4f078c1af4f332a3b9b592973b",
-          "lastSyncedAt": "2026-11-16T17:40:58.335Z"
+          "lastSyncedAt": "2026-11-16T18:15:47.993Z"
         }
       ]
     },
