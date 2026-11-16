@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-16T18:04:37.327Z",
+  "updatedAt": "2026-11-16T18:06:50.127Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.cpp",
           "sha": "b5ba07f22e8eed26c8b07c8de3cc95586440549a",
           "lastSyncedAt": "2026-11-16T17:54:17.931Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "problemName": "0152-maximum-product-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+      "folderPath": "0152-maximum-product-subarray/",
+      "readmePath": "0152-maximum-product-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0152-maximum-product-subarray.cpp",
+          "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.cpp",
+          "sha": "d2ed571de4e4d431f5d3016df78bbd1b55090235",
+          "lastSyncedAt": "2026-11-16T18:06:50.127Z"
         }
       ]
     },
