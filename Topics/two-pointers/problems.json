@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-16T17:51:38.319Z",
+  "updatedAt": "2026-11-16T18:00:54.715Z",
   "problems": [
     {
       "frontendId": "5",
@@ -103,7 +103,7 @@
           "filename": "0061-rotate-list.cpp",
           "path": "0061-rotate-list/0061-rotate-list.cpp",
           "sha": "5ce0a390d0acd152ce0637b7e3b12d555207ac6d",
-          "lastSyncedAt": "2026-11-15T17:02:38.750Z"
+          "lastSyncedAt": "2026-11-16T18:00:54.715Z"
         }
       ]
     },
