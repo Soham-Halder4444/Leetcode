@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:09:35.623Z",
+  "updatedAt": "2026-11-16T18:09:46.555Z",
   "problems": [
     {
       "frontendId": "1",
@@ -784,6 +784,26 @@
           "path": "0204-count-primes/0204-count-primes.cpp",
           "sha": "85e3d43d1135bb34b6fd16b2a04a806aeac14308",
           "lastSyncedAt": "2026-11-16T17:56:11.683Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "0215-kth-largest-element-in-an-array/",
+      "readmePath": "0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0215-kth-largest-element-in-an-array.cpp",
+          "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
+          "sha": "f0921be2acb8ebe94e50e8c143b4fd973ab0fb04",
+          "lastSyncedAt": "2026-11-16T18:09:46.555Z"
         }
       ]
     },
