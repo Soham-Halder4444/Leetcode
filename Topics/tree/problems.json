@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-16T18:19:47.108Z",
+  "updatedAt": "2026-11-16T18:19:53.065Z",
   "problems": [
     {
       "frontendId": "94",
@@ -543,7 +543,7 @@
           "filename": "0700-search-in-a-binary-search-tree.cpp",
           "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.cpp",
           "sha": "c2217030396b248505f0589664e2cfea74fab66e",
-          "lastSyncedAt": "2026-11-16T17:45:53.745Z"
+          "lastSyncedAt": "2026-11-16T18:19:53.065Z"
         }
       ]
     },
