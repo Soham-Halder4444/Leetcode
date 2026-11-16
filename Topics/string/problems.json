@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T18:03:32.610Z",
+  "updatedAt": "2026-11-16T18:03:43.030Z",
   "problems": [
     {
       "frontendId": "3",
@@ -284,6 +284,26 @@
           "path": "0127-word-ladder/0127-word-ladder.cpp",
           "sha": "79df55f4be4c907f690980b8d379e4904d5a03f0",
           "lastSyncedAt": "2026-11-16T17:41:09.341Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "151",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "problemName": "0151-reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "folderPath": "0151-reverse-words-in-a-string/",
+      "readmePath": "0151-reverse-words-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0151-reverse-words-in-a-string.cpp",
+          "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp",
+          "sha": "e036c3d34e661a6d99d3a0872a7b318a378f5445",
+          "lastSyncedAt": "2026-11-16T18:03:43.030Z"
         }
       ]
     },
