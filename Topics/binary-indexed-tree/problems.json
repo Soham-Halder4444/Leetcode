@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-indexed-tree",
+    "name": "Binary Indexed Tree",
+    "tagId": "28"
+  },
+  "updatedAt": "2026-11-16T18:06:23.601Z",
+  "problems": [
+    {
+      "frontendId": "493",
+      "title": "Reverse Pairs",
+      "slug": "reverse-pairs",
+      "problemName": "0493-reverse-pairs",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
+      "folderPath": "0493-reverse-pairs/",
+      "readmePath": "0493-reverse-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0493-reverse-pairs.cpp",
+          "path": "0493-reverse-pairs/0493-reverse-pairs.cpp",
+          "sha": "99b4054a6d58dde94101178ca99137b43720b3ff",
+          "lastSyncedAt": "2026-11-16T18:06:23.601Z"
+        }
+      ]
+    }
+  ]
+}
