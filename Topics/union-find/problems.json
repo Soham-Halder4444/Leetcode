@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-16T18:12:57.945Z",
+  "updatedAt": "2026-11-16T18:13:36.622Z",
   "problems": [
     {
       "frontendId": "128",
@@ -183,7 +183,7 @@
           "filename": "0947-most-stones-removed-with-same-row-or-column.cpp",
           "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.cpp",
           "sha": "20119008f8c6ce4e0ae6adebad5b9bda408a82fe",
-          "lastSyncedAt": "2026-11-16T17:37:45.847Z"
+          "lastSyncedAt": "2026-11-16T18:13:36.622Z"
         }
       ]
     },
