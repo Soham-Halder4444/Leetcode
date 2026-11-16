@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-16T17:44:26.092Z",
+  "updatedAt": "2026-11-16T17:44:45.399Z",
   "problems": [
     {
       "frontendId": "94",
@@ -263,7 +263,7 @@
           "filename": "0112-path-sum.cpp",
           "path": "0112-path-sum/0112-path-sum.cpp",
           "sha": "09355668019180d8539bc923bd53f3760c467769",
-          "lastSyncedAt": "2026-11-15T17:52:32.252Z"
+          "lastSyncedAt": "2026-11-16T17:44:45.399Z"
         }
       ]
     },
