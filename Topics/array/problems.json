@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:17:59.455Z",
+  "updatedAt": "2026-11-16T18:18:41.018Z",
   "problems": [
     {
       "frontendId": "1",
@@ -824,6 +824,26 @@
           "path": "0189-rotate-array/0189-rotate-array.cpp",
           "sha": "5c811c84b1daf7745bcd240fff102c1b8091b42d",
           "lastSyncedAt": "2026-11-16T18:09:35.623Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "problemName": "0198-house-robber",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+      "folderPath": "0198-house-robber/",
+      "readmePath": "0198-house-robber/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0198-house-robber.cpp",
+          "path": "0198-house-robber/0198-house-robber.cpp",
+          "sha": "92931642ff0163331818d73e2b69be5287007728",
+          "lastSyncedAt": "2026-11-16T18:18:41.018Z"
         }
       ]
     },
