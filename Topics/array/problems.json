@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T18:04:03.021Z",
+  "updatedAt": "2026-11-16T18:04:17.029Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "0066-plus-one/0066-plus-one.cpp",
           "sha": "290c2e4c2bee322db1dfd0c400ecb9f01fa901d8",
           "lastSyncedAt": "2026-11-16T17:47:39.636Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "0074-search-a-2d-matrix/",
+      "readmePath": "0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0074-search-a-2d-matrix.cpp",
+          "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.cpp",
+          "sha": "76d5d098c4040ff36c974e08a835ae1958127897",
+          "lastSyncedAt": "2026-11-16T18:04:17.029Z"
         }
       ]
     },
