@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-16T17:39:03.775Z",
+  "updatedAt": "2026-11-16T17:40:05.343Z",
   "problems": [
     {
       "frontendId": "100",
@@ -463,7 +463,7 @@
           "filename": "0787-cheapest-flights-within-k-stops.cpp",
           "path": "0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.cpp",
           "sha": "3009e94936c4259784003a9405e3e66ec77f6fb0",
-          "lastSyncedAt": "2026-11-15T17:48:42.875Z"
+          "lastSyncedAt": "2026-11-16T17:40:05.343Z"
         }
       ]
     },
